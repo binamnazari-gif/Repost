@@ -25,6 +25,7 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL: ${{ secrets.CHANNEL }}
+          STAGING_CHAT: ${{ secrets.STAGING_CHAT }}
 
       - name: Save state
         if: always()

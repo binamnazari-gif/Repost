@@ -25,7 +25,6 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL: ${{ secrets.CHANNEL }}
-          MAX_ID: ${{ vars.MAX_ID }}
 
       - name: Save state
         if: always()

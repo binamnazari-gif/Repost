@@ -2,8 +2,8 @@ name: daily-repost
 
 on:
   schedule:
-    # ساعت ۱۵:۰۰ UTC = حدود ۱۸:۳۰ به وقت تهران
-    - cron: "0 15 * * *"
+    # ساعت ۰۳:۰۰ و ۱۵:۰۰ UTC = حدود ۰۶:۳۰ صبح و ۱۸:۳۰ عصر به وقت تهران
+    - cron: "0 3,15 * * *"
   workflow_dispatch:   # برای اجرای دستی و تست
 
 permissions:

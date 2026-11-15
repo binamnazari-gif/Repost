@@ -1,1 +1,987 @@
-
+{
+  "book_id": "oxford_word_skills_basic",
+  "title": "Oxford Word Skills: Basic",
+  "level": "A1-A2",
+  "type": "vocab",
+  "items": [
+    {
+      "id": "ows_b_001",
+      "unit": "Unit 1",
+      "topic": "Numbers & About",
+      "text": "1) 200 = two hundred (NOT two hundreds)\n2) 2,000,000 = two million (NOT two millions)\n3) Use a comma (,) between thousands and hundreds: 11,000 / 3,000,000.\n4) Spotlight 'about': 'a bit more or a little less than'.\nExample: How many students are there? ~ About 20 (18, 19, 20, 21, or 22).",
+      "notes": [
+        "hundred / thousand / million وقتی قبلشان عدد می‌آید جمع بسته نمی‌شوند (s نمی‌گیرند).",
+        "about قبل از عدد یعنی «حدوداً / تقریباً»."
+      ],
+      "fa_translation": "۱) دویست = two hundred (نه با s جمع).\n۲) دو میلیون = two million (بدون s).\n۳) در اعداد بزرگ‌تر از ۹۹۹ بین هزارگان و صدگان کاما بگذار: 11,000.\n۴) کلمه about یعنی «کمی بیشتر یا کمتر از»؛ مثلاً حدود ۲۰ دانش‌آموز."
+    },
+    {
+      "id": "ows_b_002",
+      "unit": "Unit 2",
+      "topic": "Telling the Time",
+      "text": "1) 4:15 = It's quarter past four / four fifteen.\n2) 4:30 = It's half past four / four thirty.\n3) 4:45 = It's quarter to five / four forty-five.\n4) 6:03 = It's three minutes past six (NOT three past six).",
+      "notes": [
+        "برای مضرب‌های ۵ دقیقه (five, ten, quarter, twenty, twenty-five) کلمه minutes را نمی‌آوریم.",
+        "برای بقیه دقیقه‌ها (مثل 6:03) حتماً کلمه minutes را با to یا past می‌آوریم."
+      ],
+      "fa_translation": "۱) ۴:۱۵ = ربع گذشته از چهار / چهار و پانزده.\n۲) ۴:۳۰ = نیم ساعت گذشته از چهار / چهار و سی.\n۳) ۴:۴۵ = یک ربع مانده به پنج / چهار و چهل و پنج.\n۴) ۶:۰۳ = سه دقیقه گذشته از شش (حتماً با کلمه minutes)."
+    },
+    {
+      "id": "ows_b_003",
+      "unit": "Unit 2",
+      "topic": "Time Expressions",
+      "text": "1) 12:00 p.m. = midday\n2) 12:00 a.m. = midnight\n3) 7:57 = nearly / almost eight o'clock\n4) 8:02 = just after eight\n5) 11:30 p.m. = eleven thirty at night",
+      "notes": [
+        "nearly / almost = تقریباً (کمی مانده به)",
+        "just after = دقیقاً کمی بعد از",
+        "برای شب از at night استفاده می‌کنیم (in the evening تا حدود ۱۰ شب و بعد از آن at night)."
+      ],
+      "fa_translation": "۱) ۱۲ ظهر = midday\n۲) ۱۲ شب = midnight\n۳) ۷:۵۷ = تقریباً / نزدیک ساعت هشت\n۴) ۸:۰۲ = کمی بعد از هشت\n۵) ۱۱:۳۰ شب = یازده و نیم شب"
+    },
+    {
+      "id": "ows_b_004",
+      "unit": "Unit 3",
+      "topic": "Days, Dates & Years",
+      "text": "1) Days and months always have a capital letter: Monday, January (NOT monday, january).\n2) Saying dates: 10 March = 'March the tenth' OR 'the tenth of March'.\n3) Saying years: 1980 = nineteen eighty | 2006 = two thousand and six | 2020 = twenty twenty.",
+      "notes": [
+        "در نوشتن تاریخ عدد ترتیبی می‌نویسیم یا می‌گوییم (10th)، اما در گفتار حتماً the را می‌گوییم.",
+        "فصل‌ها (spring, summer, autumn, winter) با حرف کوچک نوشته می‌شوند."
+      ],
+      "fa_translation": "۱) روزهای هفته و ماه‌ها همیشه با حرف بزرگ شروع می‌شوند.\n۲) خواندن تاریخ: دهم مارس (March the tenth یا the tenth of March).\n۳) خواندن سال‌ها: ۱۹۸۰ (نوزده هشتاد)، ۲۰۰۶ (دو هزار و شش)، ۲۰۲۰ (بیست بیست)."
+    },
+    {
+      "id": "ows_b_005",
+      "unit": "Unit 4",
+      "topic": "Countries, Nationalities & People",
+      "text": "1) Usually nationality = language (e.g. Czech), but sometimes different: people from Mexico are Mexican, but they speak Spanish.\n2) People from a country: Italians, Brazilians, Greeks — irregular plurals: the British, the French, the Spanish, the Chinese, the Japanese, the Swiss.\n3) Great Britain = England, Wales, and Scotland. The UK = Great Britain + Northern Ireland.",
+      "notes": [
+        "کشورها، ملیت‌ها و زبان‌ها همیشه با حرف بزرگ شروع می‌شوند.",
+        "فقط اهالی انگلستان English هستند؛ اهالی اسکاتلند، ولز و ایرلند شمالی British محسوب می‌شوند."
+      ],
+      "fa_translation": "۱) معمولاً نام ملیت و زبان یکی است، اما گاهی فرق دارد (مثلاً مکزیکی‌ها اسپانیایی صحبت می‌کنند).\n۲) برای جمع بستن ملیت‌ها معمولاً s اضافه می‌کنیم، ولی شکل‌هایی مثل the British و the French جمع بی‌قاعده دارند.\n۳) بریتانیا شامل انگلستان، ولز و اسکاتلند است و UK با ایرلند شمالی کامل می‌شود."
+    },
+    {
+      "id": "ows_b_006",
+      "unit": "Unit 5",
+      "topic": "Classroom Vocabulary",
+      "text": "Key classroom items:\n• noticeboard (تابلوی اعلانات)\n• board pen (ماژیک تخته)\n• pencil sharpener (مدادتراش)\n• rubber (پاک‌کن - در انگلیسی بریتانیایی)\n• folder (پوشه / زونکن)\n• piece of paper (یک برگ کاغذ)",
+      "notes": [
+        "paper اسم غیرقابل‌شمارش است؛ برای شمارش آن می‌گوییم a piece of paper (نه a paper).",
+        "rubber در بریتیش به معنی پاک‌کن است (در امریکن eraser)."
+      ],
+      "fa_translation": "واژگان کلیدی کلاس درس: تابلوی اعلانات (noticeboard)، ماژیک تخته (board pen)، مدادتراش (pencil sharpener)، پاک‌کن (rubber)، پوشه (folder) و یک برگ کاغذ (piece of paper)."
+    },
+    {
+      "id": "ows_b_007",
+      "unit": "Unit 6",
+      "topic": "English Language Words",
+      "text": "Sentence anatomy:\n'An old man walked slowly down the hill.'\n• An = indefinite article | the = definite article\n• old = adjective | man = noun | walked = verb (regular past simple)\n• slowly = adverb | down = preposition\n• 'Speak' is irregular: past simple = spoke, past participle = spoken.",
+      "notes": [
+        "indefinite article = حرف تعریف نامعین (a/an) | definite article = حرف تعریف معین (the)",
+        "past participle (اسم مفعول / شکل سوم فعل) برای ساختن زمان حال کامل (present perfect) به کار می‌رود."
+      ],
+      "fa_translation": "اجزای جمله: An حرف تعریف نامعین، the حرف تعریف معین، old صفت، man اسم، walked فعل باقاعده گذشته، slowly قید و down حرف اضافه است. فعل speak بی‌قاعده است: گذشته spoke و شکل سوم spoken."
+    },
+    {
+      "id": "ows_b_008",
+      "unit": "Unit 7",
+      "topic": "Asking About Language",
+      "text": "Useful classroom questions:\n1) What does 'dreadful' mean? (NOT What means 'dreadful'?)\n2) Could you explain 'No vacancies'? (NOT Could you explain me...?)\n3) What's the difference between 'hello' and 'hi'?\n4) How do you pronounce 'May'? ~ /meɪ/, like 'day'.\n5) How do you spell 'apple'? ~ A-double P-L-E.",
+      "notes": [
+        "حواست به ساختار درست باشد: What does X mean? و Could you explain X? (بدون me).",
+        "وقتی دو حرف شبیه هم پشت سر هم می‌آیند در هجی کردن می‌گوییم double (مثل double P)."
+      ],
+      "fa_translation": "۱) معنی dreadful چیست؟\n۲) ممکن است عبارت No vacancies را توضیح دهید؟\n۳) تفاوت hello و hi چیست؟\n۴) کلمه May چطور تلفظ می‌شود؟\n۵) کلمه apple چطور هجی می‌شود؟ (A، دو تا P، L، E)"
+    },
+    {
+      "id": "ows_b_009",
+      "unit": "Unit 8",
+      "topic": "Personal Information",
+      "text": "1) What's your family name / first name?\n2) Whereabouts in Italy? (= Where in Italy exactly?)\n3) What do you do in Pisa? (= What's your job?)\n4) Spotlight 'information': Information is uncountable; don't say 'an information' or 'informations'. Say 'some information'.",
+      "notes": [
+        "Whereabouts = دقیقاً کجای (یک شهر یا کشور)؟",
+        "information همیشه مفرد و غیرقابل‌شمارش است: some information."
+      ],
+      "fa_translation": "۱) نام خانوادگی / نام کوچک شما چیست؟\n۲) دقیقاً کجای ایتالیا؟\n۳) در پیزا چه‌کار می‌کنید؟ (شغلتان چیست؟)\n۴) نکته: واژه information غیرقابل‌شمارش است و جمع بسته نمی‌شود."
+    },
+    {
+      "id": "ows_b_010",
+      "unit": "Unit 9",
+      "topic": "Filling in a Form",
+      "text": "Form vocabulary:\n• Mr (single/married man) | Mrs (married woman) | Miss (single woman) | Ms (single/married woman)\n• surname (family name) | forename (first name)\n• date of birth | mother tongue (first language)\n• daytime tel | mobile no ('no' = number)\n• marital status (married or single) | occupation (job) | signature",
+      "notes": [
+        "Ms (خوانده می‌شود /mɪz/) زمانی استفاده می‌شود که نمی‌دانیم یا نمی‌خواهیم وضعیت تاهل خانم مشخص شود.",
+        "mother tongue = زبان مادری | marital status = وضعیت تاهل."
+      ],
+      "fa_translation": "واژگان فرم‌های اداری: عناوین Mr/Mrs/Miss/Ms، نام خانوادگی (surname)، نام کوچک (forename)، تاریخ تولد، زبان مادری (mother tongue)، تلفن روزانه، وضعیت تاهل (marital status)، شغل (occupation) و امضا (signature)."
+    },
+    {
+      "id": "ows_b_011",
+      "unit": "Unit 10",
+      "topic": "Family Relationships",
+      "text": "1) relatives = members of your family | parents = mother and father.\n2) brother-in-law / sister-in-law (برادر/خواهرِ همسر یا همسرِ برادر/خواهر).\n3) nephew (پسرِ برادر یا خواهر) | niece (دخترِ برادر یا خواهر) | cousin (فرزندِ عمو، عمه، دایی یا خاله).\n4) grandson / granddaughter (نوه پسر / نوه دختر).",
+      "notes": [
+        "در انگلیسی برای همه فرزندان عمو/عمه/دایی/خاله فقط یک کلمه داریم: cousin.",
+        "پدربزرگ و مادربزرگ با هم می‌شوند grandparents."
+      ],
+      "fa_translation": "خویشاوندان (relatives)، والدین (parents)، نسبت‌های سببی با in-law (مثل brother-in-law)، برادرزاده/خواهرزاده پسر (nephew) و دختر (niece)، و نوه پسر/دختر (grandson/granddaughter)."
+    },
+    {
+      "id": "ows_b_012",
+      "unit": "Unit 10",
+      "topic": "Family History & Age",
+      "text": "1) My parents got married 25 years ago (get divorced = stop being husband and wife).\n2) There are five of us in my family (NOT we are five).\n3) We spend a lot of time together.\n4) Spotlight age: Damon is 22 years old (NOT He has 22). Alf's the oldest; Karen's the youngest.",
+      "notes": [
+        "برای بیان تعداد اعضای خانواده حتماً بگو: There are [number] of us.",
+        "برای سن همیشه از فعل to be استفاده کن، نه have."
+      ],
+      "fa_translation": "۱) والدینم ۲۵ سال پیش ازدواج کردند (طلاق گرفتن = get divorced).\n۲) ما در خانواده پنج نفر هستیم (There are five of us).\n۳) ما وقت زیادی را با هم می‌گذرانیم.\n۴) دیمون ۲۲ ساله است (با فعل is نه has)."
+    },
+    {
+      "id": "ows_b_013",
+      "unit": "Unit 11",
+      "topic": "Using Your Body",
+      "text": "Body actions & irregular past forms:\n• sit down (sat) / stand up (stood)\n• lie down (lay) / fall over (fell)\n• ride (rode) / run (ran) / walk / jump / climb\n• get on (got on) / get off (a bus or train)",
+      "notes": [
+        "fall over یعنی «زمین خوردن» (نه فقط افتادن).",
+        "برای سوار و پیاده شدن از اتوبوس و قطار از get on و get off استفاده می‌کنیم."
+      ],
+      "fa_translation": "حرکات بدنی و گذشته بی‌قاعده آن‌ها: نشستن (sit down / sat)، ایستادن (stand up / stood)، دراز کشیدن (lie down / lay)، زمین خوردن (fall over / fell)، راندن دوچرخه (ride / rode)، دویدن (run / ran)، و سوار/پیاده شدن (get on / get off)."
+    },
+    {
+      "id": "ows_b_014",
+      "unit": "Unit 11",
+      "topic": "Using Your Hands",
+      "text": "Hand actions & irregular past forms:\n• push (هل دادن) vs pull (کشیدن)\n• hold (held - نگه داشتن) vs carry (حمل کردن)\n• pick something up (بلند کردن از زمین) vs put something down (زمین گذاشتن)\n• drop (انداختن) / break (broke - شکستن) / give (gave) / touch / turn on / close-shut (shut)",
+      "notes": [
+        "hold یعنی چیزی را در دست نگه داشتن (ایستا)، ولی carry یعنی آن را از جایی به جای دیگر بردن.",
+        "shut و put در زمان حال و گذشته یک شکل دارند."
+      ],
+      "fa_translation": "کار با دست‌ها: هل دادن (push) و کشیدن (pull)، نگه داشتن (hold/held) و حمل کردن (carry)، برداشتن از زمین (pick up) و زمین گذاشتن (put down)، انداختن (drop)، شکستن (break/broke)، لمس کردن (touch) و روشن کردن (turn on)."
+    },
+    {
+      "id": "ows_b_015",
+      "unit": "Unit 12",
+      "topic": "Parts of the Body",
+      "text": "Key body parts to double-check:\n• Face: cheek (گونه), chin (چانه), lip (لب), tooth (plural: teeth)\n• Upper body: shoulder (شانه), chest (سینه), stomach (شکم/معده), waist (کمر/دور کمر), wrist (مچ دست), thumb (شست دست)\n• Lower body: bottom (باسن), knee (زانو), ankle (مچ پا), foot (plural: feet), toes (انگشتان پا)",
+      "notes": [
+        "انگشتان دست می‌شوند fingers (و شست دست thumb)، اما انگشتان پا فقط می‌شوند toes.",
+        "جمع tooth می‌شود teeth و جمع foot می‌شود feet."
+      ],
+      "fa_translation": "اعضای مهم بدن: گونه (cheek)، چانه (chin)، دندان‌ها (tooth/teeth)، شانه (shoulder)، سینه (chest)، کمر (waist)، مچ دست (wrist)، شست (thumb)، زانو (knee)، مچ پا (ankle) و انگشتان پا (toes)."
+    },
+    {
+      "id": "ows_b_016",
+      "unit": "Unit 13",
+      "topic": "General Appearance",
+      "text": "1) Height: tall / average height / short ('How tall is he? ~ He's 175 cms.')\n2) Weight: slim / average weight / overweight ('How much does she weigh? ~ About 60 kgs.')\n3) Spotlight: Thin means slim, but 'slim' is more positive. 'Overweight' is more polite than 'fat'. 'Not very attractive' is more polite than 'ugly'.",
+      "notes": [
+        "به کسی گفتن fat یا ugly بی‌ادبانه است؛ به جایش از overweight و not very attractive استفاده می‌کنند.",
+        "برای مردها بیشتر good-looking یا attractive می‌گویند تا beautiful."
+      ],
+      "fa_translation": "۱) قد: بلند، متوسط، کوتاه.\n۲) وزن: لاغر (slim)، وزن متوسط، دارای اضافه‌وزن (overweight).\n۳) نکته ادبی: کلمه slim بار مثبت‌تری نسبت به thin دارد؛ گفتن overweight از fat و not very attractive از ugly مودبانه‌تر است."
+    },
+    {
+      "id": "ows_b_017",
+      "unit": "Unit 13",
+      "topic": "Hair, Eyes & Age",
+      "text": "1) Hair: short / medium-length / long | straight / wavy / curly | blonde / light brown / dark brown / grey.\n2) Facial hair: a beard (ریش) / a moustache (سبیل).\n3) Age phrases: a baby (<18m), a child (2-11), a teenager (13-17), an adult (18+), middle-aged (45-60), an elderly man/woman (65+, polite).\n4) 'in his/her early twenties / mid-thirties / late fifties'.",
+      "notes": [
+        "در انگلیسی برای سن بالا، elderly بسیار مودبانه‌تر از old است.",
+        "برای بیان حدود سن در یک دهه از early / mid / late استفاده می‌کنیم (مثلاً mid-thirties یعنی حدود ۳۴ تا ۳۶)."
+      ],
+      "fa_translation": "۱) مو: کوتاه/متوسط/بلند | صاف/موج‌دار/فر | بلوند/قهوه‌ای روشن و تیره/جوگندمی.\n۲) ریش (beard) و سبیل (moustache).\n۳) سنین: نوزاد، کودک، نوجوان، بزرگسال، میانسال (middle-aged) و سالمند (elderly).\n۴) اوایل بیست‌سالگی، اواسط سی‌سالگی، اواخر پنجاه‌سالگی."
+    },
+    {
+      "id": "ows_b_018",
+      "unit": "Unit 14",
+      "topic": "Talking About Character",
+      "text": "1) friendly (OPP unfriendly) / kind (helpful) / nice (SYN pleasant, OPP horrible)\n2) fun (something/someone that makes you happy) vs funny (making you laugh)\n3) relaxed (calm) / clever (SYN intelligent, OPP stupid) / quiet / serious\n4) Spotlight: 'What's Jack like?' ~ He's very nice. (NOT He's like very nice.)",
+      "notes": [
+        "تفاوت مهم: What's he like? یعنی اخلاق/ویژگی‌اش چطور است؟ (در جواب فقط صفت می‌آید، کلمه like تکرار نمی‌شود).",
+        "fun = خوش‌گذران و جذاب | funny = بامزه و خنده‌دار."
+      ],
+      "fa_translation": "ویژگی‌های شخصیتی: خوش‌برخورد (friendly)، مهربان (kind)، خوش‌مشرب (nice/pleasant)، جذاب (fun) در برابر خنده‌دار (funny)، آرام (relaxed)، باهوش (clever/intelligent)، ساکت (quiet) و جدی (serious)."
+    },
+    {
+      "id": "ows_b_019",
+      "unit": "Unit 14",
+      "topic": "Personality & Habits",
+      "text": "From Gemma's story:\n• on my own = alone, without other people\n• be complete opposites = be very different\n• shy (خجالتی) vs sociable (اجتماعی)\n• sporty (ورزش‌دوست) / organized (منظم در برنامه‌ریزی)\n• tidy (مرتب - OPP untidy) / lazy (تنبل - OPP hardworking)\n• Spotlight 'really': means 'very' before most adjectives (e.g. 'a really nice person').",
+      "notes": [
+        "organized کسی است که خوب برنامه‌ریزی می‌کند؛ tidy کسی است که وسایل را سر جایش می‌گذارد.",
+        "really در انگلیسی محاوره‌ای به جای very خیلی پرکاربرد است."
+      ],
+      "fa_translation": "تنهایی (on my own)، کاملاً متضاد بودن (be complete opposites)، خجالتی (shy) در برابر اجتماعی (sociable)، اهل ورزش (sporty)، برنامه‌ریز و منظم (organized)، مرتب (tidy) در برابر نامرتب (untidy)، و تنبل (lazy) در برابر سخت‌کوش (hardworking)."
+    },
+    {
+      "id": "ows_b_020",
+      "unit": "Unit 15",
+      "topic": "Romantic Relationships",
+      "text": "1) partner (boyfriend, girlfriend, wife, or husband)\n2) go out with someone / be together (have a romantic relationship)\n3) get to know someone (learn about and become friends with someone)\n4) couple / split up (stop a relationship) / divorced\n5) Spotlight: You have a good/difficult relationship WITH someone.",
+      "notes": [
+        "فعل split up یعنی «جدا شدن / به هم زدن رابطه».",
+        "حرف اضافه relationship همیشه with است (relationship with someone)."
+      ],
+      "fa_translation": "شریک عاطفی (partner)، با هم بودن (be together)، بیرون رفتن/قرار گذاشتن (go out with)، آشنا شدن (get to know)، زوج (couple)، جدا شدن (split up)، مطلقه (divorced) و رابطه خوب یا سخت داشتن با کسی."
+    },
+    {
+      "id": "ows_b_021",
+      "unit": "Unit 15",
+      "topic": "Friends & Advice",
+      "text": "1) get on (well) with someone = have a good relationship with someone.\n2) meet (PT met) = see and speak to someone for the first time.\n3) flatmate = person you live with (not romantic).\n4) advice (U) = opinion/information to help with a problem ('give someone advice', NOT 'an advice').\n5) closest friend = best friend | each other (Pam and Mike loved each other).",
+      "notes": [
+        "advice هم مثل information غیرقابل‌شمارش است؛ نمی‌گوییم an advice (می‌گوییم good advice یا a piece of advice).",
+        "get on well with = آب کسی توی یک جوب رفتن / رابطه خوبی داشتن."
+      ],
+      "fa_translation": "رابطه خوبی با کسی داشتن (get on well with)، برای اولین بار ملاقات کردن (meet)، هم‌خانه (flatmate)، نصیحت/مشورت (advice)، صمیمی‌ترین دوست (closest friend) و یکدیگر (each other)."
+    },
+    {
+      "id": "ows_b_022",
+      "unit": "Unit 16",
+      "topic": "Physical Feelings",
+      "text": "1) What's the matter? (= What's the problem?)\n2) be/feel tired, hungry, thirsty, nervous, ill\n3) be/feel boiling (very, very hot) vs be/feel freezing (very, very cold)\n4) Spotlight 'be ill / sick': 'ill' means not well. 'be sick' usually means vomit (بالا آوردن). 'feel sick' = think you are going to be sick (حالت تهوع داشتن).",
+      "notes": [
+        "تفاوت مهم در بریتیش: I'm ill = مریضم | I feel sick = حالت تهوع دارم.",
+        "boiling (جوش آمدن از گرما) و freezing (یخ زدن از سرما) صفت‌های اغراقی روزمره هستند."
+      ],
+      "fa_translation": "۱) موضوع چیه؟ / چته؟ (What's the matter?)\n۲) خسته، گرسنه، تشنه، مضطرب، مریض.\n۳) خیلی گرم بودن (boiling) در برابر یخ زدن (freezing).\n۴) ill یعنی ناخوش بودن، اما feel sick یعنی حالت تهوع داشتن."
+    },
+    {
+      "id": "ows_b_023",
+      "unit": "Unit 16",
+      "topic": "Emotions & 'Get'",
+      "text": "Emotions: happy, sad (SYN unhappy), excited, worried, angry, frightened (SYN scared), embarrassed (خجالت‌زده/معذب), surprised, in love, upset (ناراحت/دلخور).\nSpotlight 'get + adjective': 'Get' can mean 'become' or 'start to be'.\nExample: My wife gets worried if I'm late. / The children got very excited.",
+      "notes": [
+        "ساختار get + صفت برای نشان دادن تغییر حالت (شدن) در انگلیسی گفتاری فوق‌العاده پرکاربرد است.",
+        "embarrassed یعنی وقتی از کار یا اشتباهی خجالت می‌کشی و معذب می‌شوی (با shy که خجالتی بودنِ شخصیتی است فرق دارد)."
+      ],
+      "fa_translation": "احساسات: خوشحال، غمگین، هیجان‌زده، نگران، عصبانی، ترسیده (frightened/scared)، معذب و شرمنده (embarrassed)، متعجب، عاشق (in love) و دلخور (upset). فعل get قبل از صفت معنی «شدن» می‌دهد (مثلاً نگران شدن)."
+    },
+    {
+      "id": "ows_b_024",
+      "unit": "Unit 17",
+      "topic": "Weekdays & Routine",
+      "text": "1) I usually/normally get up at 7.00, have a shower, get dressed, and have breakfast.\n2) I leave home at 8.00, get to work at 8.30, finish work at 5.00, and go to bed at 11.30.\n3) Spotlight: 'usually/normally' = most days.",
+      "notes": [
+        "get dressed = لباس پوشیدن | get to work = رسیدن به محل کار",
+        "برای رفت‌وآمد از leave home (خروج از خانه) و go to bed (خوابیدن) استفاده می‌کنیم."
+      ],
+      "fa_translation": "۱) معمولاً ساعت ۷ بیدار می‌شوم، دوش می‌گیرم، لباس می‌پوشم و صبحانه می‌خورم.\n۲) ساعت ۸ از خانه خارج می‌شوم، ۸:۳۰ به محل کار می‌رسم، ۵ کارم تمام می‌شود و ۱۱:۳۰ می‌خوابم."
+    },
+    {
+      "id": "ows_b_025",
+      "unit": "Unit 17",
+      "topic": "Weekends & Frequency",
+      "text": "1) during the week (Mon–Fri) vs at the weekend (Sat–Sun).\n2) stay in (stay at home) | come round (come to my home) | go out | go for a walk.\n3) go shopping (clothes, etc.) vs do the shopping (buy food).\n4) Frequency: always (100%) > often > sometimes > occasionally > hardly ever / rarely > never (0%).\n5) Spotlight: 'every day' (Mon–Sun) vs 'all day' (9.00 a.m. to 6.00 p.m.).",
+      "notes": [
+        "قیدهای تکرار قبل از فعل اصلی (I always get up) و بعد از فعل کمکی (I'm hardly ever ill) می‌آیند.",
+        "go shopping = خرید تفریحی/لباس | do the shopping = خرید روزمره/خوراکی."
+      ],
+      "fa_translation": "در طول هفته معمولاً خانه می‌مانم (stay in) یا دوستانم به خانه‌ام می‌آیند (come round). آخر هفته بیرون می‌روم. «every day» یعنی هر روز هفته، اما «all day» یعنی تمام طول روز."
+    },
+    {
+      "id": "ows_b_026",
+      "unit": "Unit 18",
+      "topic": "Clothes, Colours & Accessories",
+      "text": "1) jumper (SYN sweater) | trousers | skirt | dress | suit | coat | raincoat.\n2) Colours: cream, purple, dark blue, pale blue / light blue.\n3) Accessories: scarf, tie, belt, handbag, trainers, boots, sandals, tights.\n4) Spotlight: Trousers, jeans, tights, clothes, and (sun)glasses are always plural (e.g. 'These trousers are nice', NOT 'This trouser is').",
+      "notes": [
+        "شلوار، شلوار جین، جوراب‌شلواری، لباس‌ها و عینک همیشه در انگلیسی جمع بسته می‌شوند و فعل جمع می‌گیرند.",
+        "برای لباس‌های جفتی می‌گوییم a pair of (مثلاً a pair of trainers)."
+      ],
+      "fa_translation": "واژگان پوشش: ژاکت (jumper/sweater)، شلوار (trousers)، کت‌وشلوار (suit)، بارانی (raincoat)، رنگ‌های روشن و تیره (pale/light vs dark)، شال‌گردن (scarf)، کتانی (trainers) و جوراب‌شلواری (tights)."
+    },
+    {
+      "id": "ows_b_027",
+      "unit": "Unit 19",
+      "topic": "Describing & Buying Clothes",
+      "text": "1) smart (شیک و رسمی) vs casual (راحت و روزمره) | tight (تنگ) vs loose (گشاد) | comfortable.\n2) What size are you? / What size do you take? ~ I take size 40.\n3) Spotlight 'too vs very': 'Her coat is very long (OK)' vs 'Her coat is too long (NOT OK)'.\n4) In a shop: 'I'm looking for...', 'Can I try it on?', 'changing room', 'cash desk', 'I'll take it' / 'I'll leave it, thanks'.",
+      "notes": [
+        "too یعنی «بیش از حدِ مجاز» (بار منفی دارد)، ولی very یعنی «خیلی».",
+        "هنگام خرید به جای I buy it می‌گوییم I'll take it."
+      ],
+      "fa_translation": "لباس رسمی (smart) در برابر روزمره (casual)، تنگ (tight) در برابر گشاد (loose). برای امتحان کردن لباس: Can I try it on? در اتاق پرو (changing room). اگر بخواهی بخری: I'll take it، و اگر نخواهی: I'll leave it."
+    },
+    {
+      "id": "ows_b_028",
+      "unit": "Unit 20",
+      "topic": "Money in Shops & Adverts",
+      "text": "1) cost (PT cost) | €9 each (€9 for one) | €27 altogether (for everything).\n2) pay in cash (notes & coins) / by credit card / by debit card / by cheque | change (بقیه پول) | receipt (رسید) | enter your PIN.\n3) Spotlight: €5.30 = five euros thirty OR five thirty (NOT five euros and thirty). 'a ten pound note' (NOT pounds).\n4) Adverts: sell (PT sold) / buy (PT bought) | half price (50%) | spend money on | save 5% on a bill | fare (کرایه سفر) | earn (درآمد شغلی) | win (PT won).",
+      "notes": [
+        "برای کرایه تاکسی، قطار و هواپیما از fare استفاده می‌کنیم، نه price یا bill.",
+        "earn برای پولی است که با کار کردن به دست می‌آید؛ win برای برنده شدن در مسابقه/قرعه‌کشی."
+      ],
+      "fa_translation": "خرید: قیمت هر عدد (each)، جمع کل (altogether)، پرداخت نقدی با اسکناس و سکه (notes & coins)، بقیه پول (change) و رسید (receipt). در آگهی‌ها: نیم‌بها (half price)، پس‌انداز (save)، کرایه سفر (fare) و کسب درآمد (earn)."
+    },
+    {
+      "id": "ows_b_029",
+      "unit": "Unit 21",
+      "topic": "Talking About the Weather",
+      "text": "1) Nouns/Adjectives/Verbs: sun (sunny, shining) | cloud (cloudy) | rain (wet, raining) | wind (windy, blowing/blew) | ice (icy) | fog (foggy) | snow (snowing).\n2) Spotlight: 'a lot of / a bit of + noun' (a lot of rain) | 'verb + a lot / a bit' (It snowed a lot) | 'a bit + adjective' (a bit foggy).\n3) Wet/dry: changeable, shower (باران کوتاه), humid (شرجی), storm, breeze (نسیم), cool, heavy rain, thunder & lightning, damp (نمناک و سرد).",
+      "notes": [
+        "rain, snow, ice, fog, sunshine در هواشناسی غیرقابل‌شمارش‌اند.",
+        "humid = گرم و مرطوب (شرجی) | damp = سرد و کمی خیس."
+      ],
+      "fa_translation": "توصیف هوا: آفتابی، ابری، بارانی، بادی، یخبندان، مه‌آلود. هوای متغیر (changeable)، رگبار کوتاه (shower)، هوای شرجی (humid)، نسیم خنک (breeze)، رعدوبرق (thunder & lightning) و نمناک (damp)."
+    },
+    {
+      "id": "ows_b_030",
+      "unit": "Unit 22",
+      "topic": "Illness & Advice",
+      "text": "1) What's the matter? ~ I've got a headache / toothache / stomach-ache / backache / a cold / a cough / a sore throat / flu / a temperature.\n2) My leg hurts / I've got a pain in my leg.\n3) Advice: You should go and see your GP (family doctor) / go to the chemist's (pharmacy) / stay in bed for a day or two / lie down for a while.",
+      "notes": [
+        "برای سردرد، دندان‌درد و... از I've got استفاده می‌کنیم، اما برای flu و toothache حرف تعریف a نمی‌گذاریم (a headache ولی flu).",
+        "بعد از should همیشه فعل ساده بدون to می‌آید (You should go)."
+      ],
+      "fa_translation": "بیماری‌ها: سردرد، دندان‌درد، دل‌درد، کمردرد، گلودرد، تب (temperature)، آنفلوانزا. توصیه پزشکی با should: باید به پزشک عمومی (GP) یا داروخانه (chemist's) بروی، یکی دو روز استراحت کنی یا کمی دراز بکشی."
+    },
+    {
+      "id": "ows_b_031",
+      "unit": "Unit 23",
+      "topic": "At the Chemist's",
+      "text": "Customer & Chemist:\n• 'I cut my finger.' ~ 'You need some antiseptic cream and plasters.'\n• 'Could I have some cotton wool and a box of tissues, please?'\n• 'I need something for a cold / a headache.'\n• 'Try these tablets / this cough medicine. Take two tablets every four hours with water.'",
+      "notes": [
+        "در انگلیسی برای قرص خوردن می‌گوییم take a tablet / take medicine (نه eat!).",
+        "ساختار درخواست در داروخانه: Could I have something for [illness]?"
+      ],
+      "fa_translation": "در داروخانه: کرم ضدعفونی‌کننده (antiseptic cream)، چسب زخم (plasters)، پنبه (cotton wool)، قرص (tablets)، جعبه دستمال کاغذی (box of tissues) و شربت سرفه (cough medicine)."
+    },
+    {
+      "id": "ows_b_032",
+      "unit": "Unit 24",
+      "topic": "Meat, Fish & Seafood",
+      "text": "1) Animal vs Meat: cow -> beef | lamb/sheep -> lamb | pig -> pork (also ham, bacon, sausages) | chicken -> chicken | duck -> duck.\n2) Fish: salmon, tuna.\n3) Seafood: squid (ماهی مرکب), prawns (میگو), crab (خرچنگ), mussels (صدف).",
+      "notes": [
+        "نام حیوان زنده با گوشت آن در گاو، گوسفند و خوک متفاوت است: cow/beef، pig/pork.",
+        "گوشت ماهی‌ها و مرغ و اردک همان نام حیوان است."
+      ],
+      "fa_translation": "گوشت گاو (beef)، گوشت بره (lamb)، گوشت خوک (pork/ham/bacon)، مرغ و اردک؛ ماهی سالمون و تن؛ غذاهای دریایی: میگو (prawns)، خرچنگ (crab)، صدف (mussels) و ماهی مرکب (squid)."
+    },
+    {
+      "id": "ows_b_033",
+      "unit": "Unit 25",
+      "topic": "Fruit & Vegetables",
+      "text": "1) Fruit: peach, pear, cherry, melon, grapes, pineapple, avocado, mango, strawberry.\n2) Taste: sweet (شیرین) vs bitter (تلخ) | fresh (تازه) | This juice tastes of orange.\n3) Vegetables: cauliflower (گل‌کلم), cabbage (کلم), peas (نخودفرنگی), aubergine (بادمجان), courgette (کدو سبز), garlic (clove) (حبه سیر), chilli, lettuce, cucumber.\n4) raw (خام) / frozen (منجمد) / cooked (پخته).",
+      "notes": [
+        "تلفظ و تفاوت بریتیش: aubergine (بادمجان) و courgette (کدو سبز) در امریکن eggplant و zucchini هستند.",
+        "taste of = مزه چیزی را دادن."
+      ],
+      "fa_translation": "میوه‌ها: هلو، گلابی، گیلاس، طالبی، انگور، آناناس، آووکادو. مزه‌ها: شیرین (sweet)، تلخ (bitter)، تازه (fresh). سبزیجات: گل‌کلم، کلم، بادمجان (aubergine)، کدو سبز (courgette)، حبه سیر (clove of garlic)، کاهو، خیار، خام/منجمد/پخته."
+    },
+    {
+      "id": "ows_b_034",
+      "unit": "Unit 26",
+      "topic": "Buying Food & Quantities",
+      "text": "1) Uncountable (U): milk, bread, butter, cheese, sugar, jam, olive oil, rice, pasta, chocolate.\n   Make them countable: 'a piece of cheese', 'a bar of chocolate'.\n2) Containers: a carton of juice, a packet of rice/biscuits, a jar of jam/olives, a tin of tomatoes/tuna, a can of soda, a bottle of wine, a box of chocolates.\n3) Buying: 'ripe' (رسیده), 'just over / just under', 'that's it / that's all', 'how much (U) vs how many (C)'.",
+      "notes": [
+        "تفاوت tin و can: برای قوطی غذا (مثل تن ماهی/لوبیا) می‌گوییم tin، و برای نوشیدنی می‌گوییم can.",
+        "just over = کمی بیشتر از | just under = کمی کمتر از."
+      ],
+      "fa_translation": "اسامی غیرقابل‌شمارش غذایی (مثل bread, butter, rice) با واحد شمارشی می‌آیند: یک تکه پنیر، یک قالب شکلات. بسته‌بندی‌ها: پاکت (carton/packet)، شیشه (jar)، قوطی غذا (tin) و قوطی نوشیدنی (can)."
+    },
+    {
+      "id": "ows_b_035",
+      "unit": "Unit 27",
+      "topic": "Ordering in a Café",
+      "text": "1) Café items: white coffee (with milk), black coffee, cappuccino, espresso, hot chocolate, baguette, toasted sandwich, roll.\n2) Dialogue: 'Yes, please?' (= What would you like?) | 'I'd like a ham sandwich on brown bread.' | 'Is that to eat here or take away?' | 'Two coffees, please.' (= two cups of coffee) | 'a couple of minutes' | 'Have a seat.'",
+      "notes": [
+        "اگر گارسون بپرسد Yes, please? یعنی «چه میل دارید؟»؛ اگر مشتری بگوید Yes, please یعنی «بله، لطفاً».",
+        "coffee معمولاً غیرقابل‌شمارش است، اما در کافه به معنی «یک فنجان قهوه» قابل‌شمارش می‌شود (two coffees)."
+      ],
+      "fa_translation": "سفارش در کافه: قهوه با شیر (white coffee)، قهوه سیاه، باگت، ساندویچ تست‌شده، نان قهوه‌ای/سفید. خوردن در کافه یا بیرون‌بر (eat here or take away)، یکی دو دقیقه (a couple of minutes) و بفرمایید بنشینید (Have a seat)."
+    },
+    {
+      "id": "ows_b_036",
+      "unit": "Unit 28",
+      "topic": "Ordering in a Restaurant",
+      "text": "1) Table: napkin (دستمال سفره), vinegar (سرکه), oil, salt and black pepper, bowl, plate, fork, knife, spoon.\n2) Food & Menu: boiled rice, fried eggs, grilled fish, roast chicken | Steak: rare (آبدار), medium, well done (کاملاً پخته) | Starters, Main courses, Desserts.\n3) Spotlight: 'another' (+ countable, e.g. another glass) vs 'some more' (+ uncountable, e.g. some more water). 'Still or sparkling water?' | 'Could I have the bill, please?'",
+      "notes": [
+        "another برای یک عددِ بیشتر از اسم قابل‌شمارش است، ولی some more برای اسم غیرقابل‌شمارش و جمع.",
+        "of course / sure / certainly هر سه به معنی «حتماً / با کمال میل» هستند."
+      ],
+      "fa_translation": "سر میز رستوران: دستمال سفره (napkin)، سرکه (vinegar)، کاسه و بشقاب. نوع پخت: آب‌پز (boiled)، سرخ‌شده (fried)، کبابی (grilled)، برشته (roast) و استیک (rare/medium/well done). آب بدون گاز (still) یا گازدار (sparkling)."
+    },
+    {
+      "id": "ows_b_037",
+      "unit": "Unit 29",
+      "topic": "Getting Around on Buses",
+      "text": "1) 'Excuse me, which bus do I get to the park?' | 'Does the 24 stop near / outside the bank?'\n2) 'How often does the 16 run?' ~ Every 12 minutes.\n3) 'How many stops is it?' | 'Which is the last stop?' | 'Where do I get off?' ~ At the next stop.\n4) Spotlight: 'How long does it take (to get) to the station?' ~ It takes about 10 minutes / It doesn't take long.",
+      "notes": [
+        "برای شروع صحبت با غریبه‌ها مودبانه با Excuse me شروع می‌کنیم.",
+        "فعل run برای اتوبوس و قطار یعنی «در یک مسیر حرکت کردن/سرویس دادن»."
+      ],
+      "fa_translation": "در اتوبوس: کدام اتوبوس به پارک می‌رود؟ هر چند دقیقه حرکت می‌کند (How often does it run)؟ چند ایستگاه است؟ ایستگاه آخر (last stop)، پیاده شدن (get off) و چقدر طول می‌کشد (How long does it take)؟"
+    },
+    {
+      "id": "ows_b_038",
+      "unit": "Unit 30",
+      "topic": "Getting Around on Trains",
+      "text": "1) Train words: carriage (واگن), timetable (جدول زمانی), miss a train vs catch a train, journey (سفر), fast vs slow train, railway station, passenger, ticket office, platform (سکو).\n2) Tickets: single (یک‌طرفه) vs return (رفت‌وبرگشت) | direct vs change trains | get to (arrive at) vs leave | book/reserve a seat in advance (از قبل رزرو کردن).\n3) Spotlight 'last': 1) final (last train at 11.30) 2) most recent (my last journey).",
+      "notes": [
+        "تفاوت single و return: بلیت یک‌طرفه (single) و رفت‌وبرگشت (return).",
+        "get to = رسیدن به (بدون نیاز به حرف اضافه اضافه)."
+      ],
+      "fa_translation": "در قطار: واگن (carriage)، از دست دادن/رسیدن به قطار (miss/catch)، بلیت یک‌طرفه و دوطرفه (single/return)، قطار مستقیم (direct) یا تعویض قطار (change trains)، سکو (platform) و رزرو از قبل (book in advance)."
+    },
+    {
+      "id": "ows_b_039",
+      "unit": "Unit 31",
+      "topic": "Asking for & Giving Directions",
+      "text": "1) Asking: 'Excuse me. How do I get to the river from here?' / 'Do you know the way to the station?' / 'Is there a hotel near here?'\n2) Giving: 'Go straight on' (OR 'Just keep going') | 'Go along here and turn left' | 'Take the second turning on the left' | 'It's the third turning on the right' | 'on the corner' | 'opposite the hotel' | 'on your right'.",
+      "notes": [
+        "برای «دومین کوچه/خیابان به چپ» می‌گوییم: take the second turning on the left.",
+        "opposite یعنی «روبرویِ» (نیازی به of ندارد: opposite the bank، نه opposite of)."
+      ],
+      "fa_translation": "آدرس پرسیدن: چطور به رودخانه برسم؟ مسیر ایستگاه را می‌دانید؟ آدرس دادن: مستقیم بروید (go straight on)، به راست/چپ بپیچید، دومین فرعی به چپ، سر نبش (on the corner) و روبرو (opposite)."
+    },
+    {
+      "id": "ows_b_040",
+      "unit": "Unit 32",
+      "topic": "Roads & Traffic",
+      "text": "1) In town: junction (تقاطع), roundabout (میدان), traffic jam (ترافیک سنگین), car park, speed camera, main road, road sign, petrol station, traffic lights, pedestrian crossing (خط عابر), pavement (پیاده‌رو).\n2) Out of town: 'How far is it?' | take the M4 motorway | speed limit | busy (OPP quiet) | rush hour (ساعت شلوغی) | accident | lane (خط جاده) | overtake (سبقت گرفتن).",
+      "notes": [
+        "pavement در انگلیسی بریتانیایی یعنی پیاده‌رو (در امریکن sidewalk).",
+        "overtake = سبقت گرفتن از ماشین دیگر."
+      ],
+      "fa_translation": "ترافیک و جاده: تقاطع (junction)، میدان (roundabout)، خط عابر پیاده (pedestrian crossing)، پیاده‌رو (pavement)، بزرگراه (motorway)، محدودیت سرعت (speed limit)، ساعت اوج ترافیک (rush hour)، لاین (lane) و سبقت گرفتن (overtake)."
+    },
+    {
+      "id": "ows_b_041",
+      "unit": "Unit 33",
+      "topic": "Signs & Notices",
+      "text": "Common signs:\n• entrance / way in (ورودی) | exit / way out (خروجی) | no entry | no exit\n• no smoking | no parking | please do not disturb (لطفاً مزاحم نشوید)\n• queue here (اینجا صف ببندید) | nothing to declare (کالایی برای اظهار گمرکی ندارم)\n• sale (حراج) | out of order (خراب است) | please ring for attention | no vacancies (جا نداریم - هتل پر است).",
+      "notes": [
+        "out of order برای دستگاه‌ها (تلفن، دستگاه نوشابه، آسانسور) یعنی «خراب است / کار نمی‌کند».",
+        "queue هم اسم است (صف) و هم فعل (در صف ایستادن)."
+      ],
+      "fa_translation": "تابلوها و علائم: ورودی/خروجی (way in/out)، مزاحم نشوید (do not disturb)، اینجا صف بکشید (queue here)، خراب است (out of order)، حراج (sale)، اتاق خالی نداریم (no vacancies)."
+    },
+    {
+      "id": "ows_b_042",
+      "unit": "Unit 34",
+      "topic": "Talking About My Country",
+      "text": "1) enormous (very big) | coast (ساحل دریا) | border (مرز) | capital | inland (دور از دریا) | major (بزرگ و مهم) | famous | beach | popular (محبوب).\n2) Measurements: '3,000 kilometres long' | '3,000 metres high' (Note: A mountain is HIGH, NOT tall!).",
+      "notes": [
+        "برای ارتفاع کوه و ساختمان بلند از high استفاده می‌کنیم، نه tall (tall برای انسان و درخت است).",
+        "popular with = محبوبِ بینِ (مثلاً popular with tourists)."
+      ],
+      "fa_translation": "توصیف کشور: عظیم (enormous)، خط ساحلی (coast)، مرز (border)، پایتخت (capital)، مناطق داخلی دور از دریا (inland)، مهم (major) و محبوب گردشگران (popular with tourists)."
+    },
+    {
+      "id": "ows_b_043",
+      "unit": "Unit 35",
+      "topic": "Talking About My Town",
+      "text": "1) Places: castle, palace, statue, square, cathedral, church, temple, mosque, market, bridge, museum.\n2) Facts: city/town/village | north-east, south-west | population: over / about / just under | modern (OPP old) | industrial | historic.\n3) Opinions: opinion, busy (OPP quiet), crowded, polluted (OPP clean), cosmopolitan (چندفرهنگی), there's lots to do (OPP nothing to do), nightlife, safe (OPP dangerous).",
+      "notes": [
+        "square و park جزو place هستند اما building محسوب نمی‌شوند.",
+        "cosmopolitan یعنی شهری که مردم کشورهای مختلف در آن زندگی می‌کنند."
+      ],
+      "fa_translation": "شهر من: قلعه، کاخ، مجسمه، میدان، مسجد/کلیسا/معبد، پل. جمعیت (population)، شهر صنعتی یا تاریخی. توصیف: شلوغ (crowded)، آلوده (polluted)، چندفرهنگی (cosmopolitan)، سرگرمی‌های شبانه (nightlife) و امن/خطرناک."
+    },
+    {
+      "id": "ows_b_044",
+      "unit": "Unit 36",
+      "topic": "Describing the Countryside",
+      "text": "1) On the farm: wood (جنگل کوچک), hill, valley (دره), field (مزرعه/زمین), path (مسیر خاکی), own (مالک بودن), grow (کاشتن و پرورش دادن), a few, crop (محصول کشاورزی).\n2) In the countryside: area, wonderful (OPP terrible), fresh food, healthy, public transport, look after (مراقبت کردن).\n3) Spotlight 'alone vs lonely': 'alone' = not with other people (can be happy). 'lonely' = unhappy because you are alone (She likes living alone, NOT living lonely).",
+      "notes": [
+        "تفاوت مهم: alone یعنی «تنها» (فیزیکی، بدون حس بد)، ولی lonely یعنی «احساس تنهایی و دلتنگی کردن».",
+        "look after = مراقبت و نگهداری کردن از کسی یا حیوانی."
+      ],
+      "fa_translation": "روستا و مزرعه: دره (valley)، تپه (hill)، جنگل (wood)، مزرعه (field)، محصول (crop)، غذای تازه و سالم، حمل‌ونقل عمومی و مراقبت کردن (look after). تفاوت alone (تنها بودن) و lonely (احساس تنهایی کردن)."
+    },
+    {
+      "id": "ows_b_045",
+      "unit": "Unit 37",
+      "topic": "Shops & Shopping Habits",
+      "text": "1) Shops: market (stalls), shopping centre, department store (فروشگاه بزرگ چندطبقه), supermarket, hypermarket, butcher's (قصابی), baker's (نانوایی), chemist's, deli(catessen) (اغذیه‌فروشی), newsagent's (روزنامه‌فروشی).\n2) Noun + shop: shoe shop, bookshop, music shop.\n3) Habits: convenient (راحت و در دسترس), do the shopping, queue, checkout (صندوق فروشگاه), choose, prefer, fill, trolley (چرخ خرید), basket (سبد), deliver (تحویل دادن در خانه).",
+      "notes": [
+        "در بریتیش برای مغازه‌ها مثل قصابی و نانوایی 's می‌گذاریم: at the butcher's / baker's.",
+        "checkout یعنی صندوق پرداخت در سوپرمارکت."
+      ],
+      "fa_translation": "انواع مغازه‌ها: فروشگاه بزرگ (department store)، قصابی (butcher's)، نانوایی (baker's)، روزنامه‌فروشی (newsagent's). عادت‌های خرید: راحت و دم‌دست (convenient)، صف بستن، صندوق (checkout)، چرخ خرید (trolley) و ارسال به منزل (deliver)."
+    },
+    {
+      "id": "ows_b_046",
+      "unit": "Unit 38",
+      "topic": "My Home (Flats & Houses)",
+      "text": "1) Flats: block of flats (ساختمان آپارتمانی), on the ground/first/second/top floor, in the basement (زیرزمین), rubbish (زباله), front door, stairs, lift (آسانسور), balcony, neighbour.\n2) Houses: view (منظره), study (اتاق کار/مطالعه), utility room (اتاق رخت‌شویی), upstairs (OPP downstairs), outside (OPP inside), garage, parking (U).\n3) Spotlight: A flat is on one floor; a house has two+ floors; home is where you live.",
+      "notes": [
+        "در بریتیش طبقه همکف می‌شود ground floor و طبقه بالای آن می‌شود first floor.",
+        "حرف اضافه طبقات on است (on the second floor)، اما برای زیرزمین می‌گوییم in the basement."
+      ],
+      "fa_translation": "خانه و آپارتمان: مجتمع مسکونی (block of flats)، همکف (ground floor)، زیرزمین (basement)، آسانسور (lift)، همسایه (neighbour)، اتاق کار (study)، اتاق رخت‌شویی (utility room)، طبقه بالا/پایین (upstairs/downstairs) و پارکینگ."
+    },
+    {
+      "id": "ows_b_047",
+      "unit": "Unit 39",
+      "topic": "Kitchen & Housework",
+      "text": "1) In the kitchen: shelf (plural: shelves), tap (شیر آب), microwave, frying pan (ماهیتابه), freezer, sink, saucer (نعلبکی), hob (شعله گاز), saucepan (قابلمه), rubbish bin (full OPP empty), oven (فر), fridge, washing machine, cupboard, dishwasher, cooker (اجاق گاز).\n2) Housework: do the shopping, put the shopping away, clean the cooker, empty the bin, do the ironing, do the washing-up.\n3) Spotlight: housework (کار خانه) vs homework (تکلیف مدرسه).",
+      "notes": [
+        "جمع shelf می‌شود shelves.",
+        "cooker یعنی «اجاق گاز» (نه آشپز! آشپز می‌شود cook)."
+      ],
+      "fa_translation": "آشپزخانه: قفسه (shelf/shelves)، شیر آب (tap)، ماهیتابه (frying pan)، قابلمه (saucepan)، شعله گاز (hob)، فر (oven)، کابینت (cupboard)، ماشین ظرفشویی. کارهای خانه (housework): جابه‌جا کردن خریدها، اتو کشیدن، ظرف شستن (washing-up)."
+    },
+    {
+      "id": "ows_b_048",
+      "unit": "Unit 40",
+      "topic": "Bedroom & Bathroom",
+      "text": "1) Bedroom: single bed, bedside table (پاتختی), chest of drawers (کشو/دراور), wardrobe (کمد لباس), blankets (پتو), sheets (ملحفه), towels.\n2) Bathroom: bath, shower, washbasin (روشویی), mirror, toilet, bidet | soap (U), toothpaste (U), toothbrush, shampoo (U), razor / electric razor, brush / comb, make-up (U), tissues, perfume (U).\n3) Spotlight 'have + noun': have a shower / a bath / a shave / a wash.",
+      "notes": [
+        "تفاوت sink و washbasin: در آشپزخانه می‌گوییم sink و در حمام/دستشویی می‌گوییم washbasin.",
+        "soap, toothpaste, shampoo, make-up و perfume همگی غیرقابل‌شمارش‌اند."
+      ],
+      "fa_translation": "اتاق خواب: پاتختی (bedside table)، دراور (chest of drawers)، کمد لباس (wardrobe)، پتو (blanket) و ملحفه (sheet). حمام: روشویی (washbasin)، صابون، خمیردندان، تیغ، شانه و برس؛ عبارات با have مثل have a shave / have a shower."
+    },
+    {
+      "id": "ows_b_049",
+      "unit": "Unit 41",
+      "topic": "Describing a Living Room",
+      "text": "Living room items:\n• window, light, ceiling (سقف), wall, curtains (پرده), picture, bookshelves, radiator (شوفاژ), cushion (کوسن), DVD player, lamp, armchair (مبل تک‌نفره), coffee table (میز جلو مبلی), fireplace (شومینه), floor, sofa (کاناپه), rug (قالیچه) vs carpet (فرش سرتاسری/موکت).\n• Note: 'An armchair, a sofa and a coffee table are furniture (U), or pieces of furniture.'",
+      "notes": [
+        "furniture همیشه غیرقابل‌شمارش و مفرد است (هرگز furnitures نمی‌گوییم)؛ برای شمارش می‌گوییم a piece of furniture.",
+        "carpet کل کف اتاق را می‌پوشاند، اما rug کوچک‌تر است و بخشی از کف را می‌پوشاند."
+      ],
+      "fa_translation": "اتاق نشیمن: سقف (ceiling)، پرده (curtains)، قفسه کتاب، شوفاژ (radiator)، کوسن (cushion)، مبل تک‌نفره (armchair)، میز جلو مبلی (coffee table)، شومینه (fireplace)، کاناپه (sofa)، قالیچه (rug) و مبلمان (furniture)."
+    },
+    {
+      "id": "ows_b_050",
+      "unit": "Unit 42",
+      "topic": "School Subjects & Education",
+      "text": "1) Subjects: chemistry, physics, biology, maths, ICT, geography, history, literature, music, art, PE, RE, design and technology, modern languages.\n2) Spotlight: 'be good at' vs 'be terrible at' (e.g. 'I'm quite good at languages').\n3) System: nursery school -> primary school -> secondary school (state vs private school) -> stay at school until 18 OR leave school -> college / university | uniform | pupil.",
+      "notes": [
+        "بعد از good at و terrible at هم اسم می‌آید و هم فعل + ing.",
+        "at the age of 5 = در پنج‌سالگی."
+      ],
+      "fa_translation": "درس‌های مدرسه: شیمی، فیزیک، زیست، ریاضی، ادبیات، تربیت‌بدنی (PE). خوب یا افتضاح بودن در چیزی (good at / terrible at). مقاطع: مهدکودک (nursery)، دبستان (primary)، دبیرستان (secondary)، مدرسه دولتی/غیردولتی (state/private)."
+    },
+    {
+      "id": "ows_b_051",
+      "unit": "Unit 42",
+      "topic": "School Exams",
+      "text": "1) lesson, do homework (U, NOT homeworks), work hard, result, grade (A/B) or mark (15/20), (the) best vs (the) worst, do well vs do badly.\n2) Spotlight 'exam': 'take an exam' (شرکت در امتحان), 'pass an exam' (قبول شدن), 'fail an exam' (رد شدن).",
+      "notes": [
+        "homework همیشه غیرقابل‌شمارش است.",
+        "برای امتحان دادن از take an exam استفاده می‌کنیم (نه give an exam)."
+      ],
+      "fa_translation": "امتحانات: انجام تکلیف (do homework)، سخت کار کردن، نتیجه و نمره (grade/mark)، عملکرد خوب یا بد (do well/badly)، امتحان دادن (take an exam)، قبول شدن (pass) و رد شدن (fail)."
+    },
+    {
+      "id": "ows_b_052",
+      "unit": "Unit 43",
+      "topic": "University Degrees & Subjects",
+      "text": "1) do a degree | course | term (10 weeks) | library | undergraduate (دانشجوی کارشناسی) vs graduate (فارغ‌التحصیل) | write an essay | again | fortunately (OPP unfortunately) | BA/BSc, MA/MSc, PhD | do research.\n2) Spotlight: 'How long does it last?' ~ Two hours / Three years.\n3) Subjects & People: medicine (doctor), psychology (psychologist), economics (economist), law (lawyer), politics (politician), engineering (engineer), architecture (architect), computer science (IT manager / software engineer), journalism (journalist/reporter).",
+      "notes": [
+        "last یعنی «طول کشیدن / ادامه داشتن».",
+        "دانشجوی دوره لیسانس می‌شود undergraduate و کسی که مدرکش را گرفته graduate."
+      ],
+      "fa_translation": "دانشگاه: تحصیل در مقطع دانشگاهی (do a degree)، ترم، کتابخانه، دانشجوی کارشناسی (undergraduate)، مقاله‌نویسی (write an essay)، پژوهش (do research)، دکتری (PhD). رشته‌ها: پزشکی، روان‌شناسی، اقتصاد، حقوق، سیاست، مهندسی، معماری، روزنامه‌نگاری."
+    },
+    {
+      "id": "ows_b_053",
+      "unit": "Unit 44",
+      "topic": "Naming Jobs",
+      "text": "1) Jobs: police officer, shop assistant, builder, businessman/woman, nurse, teacher, secretary, hairdresser, chef, dentist, soldier, cleaner, vet, pilot, lorry/train/taxi driver.\n2) Status: self-employed (خویش‌فرما), unemployed (بیکار), retired (بازنشسته), housewife / househusband, boss.\n3) Spotlight: Always use 'a/an' with jobs: 'He's a builder' (NOT 'He's builder').",
+      "notes": [
+        "در انگلیسی قبل از نام شغل همیشه a یا an می‌آوریم (I'm a doctor).",
+        "vet مخفف veterinary surgeon یعنی دامپزشک."
+      ],
+      "fa_translation": "مشاغل: افسر پلیس، فروشنده، بنّا، منشی، آرایشگر، سرآشپز، دندان‌پزشک، سرباز، نظافتچی، دامپزشک، خلبان، راننده کامیون. وضعیت شغلی: خویش‌فرما (self-employed)، بیکار (unemployed)، بازنشسته (retired) و رئیس (boss)."
+    },
+    {
+      "id": "ows_b_054",
+      "unit": "Unit 45",
+      "topic": "Describing a Job",
+      "text": "1) Basic info: work in an office/factory/hospital | work for a company/airline | full-time vs part-time | long hours | from nine to five | earn | salary (monthly) vs wages (weekly) | low (OPP high).\n2) Duties: have to (must) | meet clients | discuss problems (NOT discuss about) | go to meetings with colleagues | write/type reports | make phone calls | answer the phone | organize meetings.\n3) Spotlight: 'spend time doing something' (e.g. 'I spend a lot of time working').",
+      "notes": [
+        "فعل discuss مفعول مستقیم می‌گیرد و حرف اضافه about نمی‌خواهد (discuss problems).",
+        "تفاوت salary و wages: حقوق ماهانه (salary) و دستمزد هفتگی/روزانه (wages)."
+      ],
+      "fa_translation": "توصیف شغل: تمام‌وقت/پاره‌وقت، ساعت کاری طولانی، حقوق ماهانه (salary) و دستمزد هفتگی (wages). وظایف: ملاقات با مشتریان (clients)، بحث درباره مشکلات با همکاران (colleagues)، گزارش‌نویسی، برقراری تماس و هماهنگی جلسات."
+    },
+    {
+      "id": "ows_b_055",
+      "unit": "Unit 46",
+      "topic": "Using a Computer & Word Processing",
+      "text": "1) Hardware: webcam, printer, laptop, hard drive, screen, monitor, disk, mouse, mouse mat, hard copy/printout, memory stick, speaker, keyboard.\n2) Word processing: document, cut, copy, paste, save, print, folder, beginning (OPP end), middle, move, click on, a backup copy.\n3) Spotlight 'keep': put something in a place so you know where it is ('I keep it in a box').",
+      "notes": [
+        "برای چاپ کردن می‌گوییم print it out یا do a printout.",
+        "backup copy = نسخه پشتیبان."
+      ],
+      "fa_translation": "کامپیوتر: وب‌کم، پرینتر، هارد، صفحه‌نمایش، فلش (memory stick)، کیبورد و زیرموسی (mouse mat). واژه‌پردازی: سند (document)، برش/کپی/چسباندن (cut/copy/paste)، ذخیره، پوشه (folder) و نسخه پشتیبان (backup copy)."
+    },
+    {
+      "id": "ows_b_056",
+      "unit": "Unit 47",
+      "topic": "Email & The Internet",
+      "text": "1) Email: check your emails, send (PT sent), get/receive an email, reply to an email, forward, attachment, junk mail (هرزنامه), inbox.\n2) Internet: on the internet (NOT on internet), web address, broadband (اینترنت پرسرعت), fast/quick (OPP slow), online, chatroom, download, data, search engine, visit a website.",
+      "notes": [
+        "همیشه می‌گوییم on the internet (با the).",
+        "reply همیشه حرف اضافه to می‌گیرد: reply to an email."
+      ],
+      "fa_translation": "ایمیل و اینترنت: چک کردن ایمیل، پیوست (attachment)، فوروارد کردن، پاسخ دادن (reply to)، هرزنامه (junk mail)، اینترنت پرسرعت (broadband)، دانلود کردن، موتور جستجو و چت‌روم."
+    },
+    {
+      "id": "ows_b_057",
+      "unit": "Unit 48",
+      "topic": "Saying What You Like",
+      "text": "1) Scale: love > really like > like > quite like > think it's OK > don't like very much > don't like > hate.\n2) Spotlight: After like, love, and hate, use a noun, pronoun, or -ing form (e.g. 'I love playing football').\n3) Also: wonderful/fantastic, fun, favourite, enjoy doing something (enjoyable), boring (OPP interesting), prefer ... to ..., be keen on.\n4) Spotlight: 'I think modern art is interesting' = 'I'm interested in modern art' (NOT I'm interesting in...).",
+      "notes": [
+        "تفاوت interesting و interested: چیزی که جذاب است interesting است، ولی کسی که علاقه‌مند است interested می‌شود.",
+        "حرف اضافه prefer همیشه to است (I prefer tea to coffee)، نه than."
+      ],
+      "fa_translation": "بیان علاقه: دوست داشتن، متنفر بودن + فعل ingدار. جذاب (fun)، مورد علاقه (favourite)، لذت بردن (enjoy)، کسل‌کننده (boring) در برابر جالب (interesting)، ترجیح دادن (prefer ... to ...) و علاقه‌مند بودن (be keen on / interested in)."
+    },
+    {
+      "id": "ows_b_058",
+      "unit": "Unit 49",
+      "topic": "Talking About Sport",
+      "text": "1) Games & places: football/rugby (pitch) | ice hockey (rink, stick, puck) | volleyball/tennis/basketball (court, net, racket, basket).\n2) Scores: 1–0 (one nil), 10–6 (ten points to six), 6–2 (one set in tennis).\n3) Football: match, against, score a goal, top of the table/league, lead, half-time, first/second half, final score.\n4) Spotlight irregulars: win (won) against, beat (beat) someone, draw (drew/drawn) with, lose (lost) to.",
+      "notes": [
+        "تفاوت win و beat: برندهِ مسابقه/جام شدن می‌شود win (win the match)، اما شکست دادنِ حریف می‌شود beat (beat Milan).",
+        "صفر در نتیجه فوتبال nil خوانده می‌شود."
+      ],
+      "fa_translation": "ورزش: زمین فوتبال (pitch)، پیست یخ (rink)، زمین تنیس و بسکتبال (court). نتیجه: بردن (win)، شکست دادن حریف (beat)، مساوی کردن (draw) و باختن به (lose to)، گل زدن (score) و نیمه اول/دوم."
+    },
+    {
+      "id": "ows_b_059",
+      "unit": "Unit 50",
+      "topic": "Free Time & Hobbies",
+      "text": "1) Collations: go camping/skiing/fishing/to the cinema/to the gym | play cards/table tennis/computer games/the guitar | do travelling/flower arranging/cooking/drawing and painting | collect things | make my own clothes.\n2) Hobbies: gardening, repair cars, various, club, popular, musical instrument, listen to classical music (NOT classic music), sing/singer.",
+      "notes": [
+        "دقت کن: موسیقی کلاسیک می‌شود classical music (نه classic music).",
+        "برای ساز زدن همیشه از play + the + نام ساز استفاده می‌کنیم (play the guitar)."
+      ],
+      "fa_translation": "اوقات فراغت: کمپینگ، اسکی، ماهیگیری، ورق‌بازی، تنیس روی میز، جمع‌آوری اشیا (collect)، باغبانی (gardening)، تعمیر خودرو، باشگاه، ساز موسیقی (musical instrument) و موسیقی کلاسیک (classical music)."
+    },
+    {
+      "id": "ows_b_060",
+      "unit": "Unit 51",
+      "topic": "Pop, Rock & Classical Music",
+      "text": "1) Pop & rock: band/group, well known (SYN famous), be able to (OPP unable), download music, single, number 1, the singles chart, album, lead singer, drummer.\n2) Classical: concert, conductor (رهبر ارکستر), orchestra, violinist, pianist, opera singer, cellist, perform, composer (آهنگساز).\n3) Spotlight 'by': a book by (Tolstoy), a song by (Robbie Williams), a symphony by (Mozart), a film by (Scorsese).",
+      "notes": [
+        "برای معرفی خالق یک اثر (کتاب، آهنگ، فیلم، نقاشی) از حرف اضافه by استفاده می‌کنیم.",
+        "well known = معروف و شناخته‌شده."
+      ],
+      "fa_translation": "موسیقی: گروه موسیقی (band)، تک‌آهنگ (single)، آلبوم، خواننده اصلی (lead singer)، نوازنده درام (drummer). موسیقی کلاسیک: کنسرت، رهبر ارکستر (conductor)، ارکستر، آهنگساز (composer) و استفاده از by برای نام خالق اثر."
+    },
+    {
+      "id": "ows_b_061",
+      "unit": "Unit 52",
+      "topic": "Talking About Films",
+      "text": "1) Kinds of film: thriller (exciting), comedy (funny), war film (violent), love story (romantic), action film (exciting), horror film (frightening), cartoon (funny).\n2) Spotlight: 'What kind of film is it?' ~ It's a thriller.\n3) What's on?: 'What's on at the cinema?' | movie | 'It's about...' | review (نقد فیلم) | star (بازیگر نقش اصلی) | actor/actress | director | 'Where's it on?' | 'see a film at the cinema' (NOT watch a film at the cinema).",
+      "notes": [
+        "برای فیلم دیدن در سینما می‌گوییم see a film at the cinema (ولی در خانه watch a film on TV).",
+        "What's on? = الان روی پرده/پخش چه فیلمی هست؟"
+      ],
+      "fa_translation": "فیلم و سینما: ژانرها (تریلر، کمدی، جنگی، عاشقانه، اکشن، ترسناک، کارتون). عبارت «What's on?» (چه فیلمی اکران است؟)، نقد فیلم (review)، ستاره و بازیگر، کارگردان (director) و دیدن فیلم در سینما (see a film)."
+    },
+    {
+      "id": "ows_b_062",
+      "unit": "Unit 53",
+      "topic": "The Media & News",
+      "text": "1) Media: magazine, opinion, report/reporter (= journalist), event, die, war (OPP peace), disaster, celebrity, advertisement/advert.\n2) Questionnaire: newspaper/paper, find out, happen, article, on TV / on the radio (NOT in TV) vs in the paper, the news, soap (سریال روزانه), nothing much, programme, weather forecast, believe | all (100%), most (80-95%), some (30-50%), none (0%).\n3) Spotlight: watch TV / watch or see a programme | listen to the radio / hear or listen to a programme.",
+      "notes": [
+        "حرف اضافه تلویزیون و رادیو on است (on TV, on the radio)، ولی برای روزنامه از in استفاده می‌کنیم (in the paper).",
+        "soap مخفف soap opera به معنی سریال‌های دنباله‌دار خانوادگی است."
+      ],
+      "fa_translation": "رسانه: مجله، گزارشگر (reporter)، رویداد (event)، فاجعه (disaster)، سلبریتی، آگهی (advert)، مقاله (article)، پیش‌بینی هوا (weather forecast). حواست به on TV و in the paper باشد."
+    },
+    {
+      "id": "ows_b_063",
+      "unit": "Unit 54",
+      "topic": "Arranging a Holiday",
+      "text": "1) Preparations: arrange, go abroad (رفتن به خارج), on holiday, book the flight/accommodation (محل اقامت), passport, visa, travel insurance (بیمه مسافرتی), foreign currency (ارز خارجی), pack your suitcase (چمدان بستن), hire a car (کرایه ماشین).\n2) Spotlight 'might + verb': means 'it is possible that' or 'perhaps' ('You might be ill on holiday', 'It might be cold').",
+      "notes": [
+        "hire در انگلیسی بریتانیایی یعنی کرایه کردن برای مدت کوتاه (مثل ماشین یا دوچرخه)؛ در امریکن rent هم می‌گویند.",
+        "might برای همه ضمایر یک شکل دارد و بعدش فعل ساده می‌آید."
+      ],
+      "fa_translation": "برنامه‌ریزی سفر: سفر به خارج (go abroad)، رزرو پرواز و اقامتگاه (accommodation)، ویزا، بیمه سفر (travel insurance)، ارز خارجی (foreign currency)، بستن چمدان (pack suitcase) و کرایه خودرو (hire a car). استفاده از might برای احتمال."
+    },
+    {
+      "id": "ows_b_064",
+      "unit": "Unit 55",
+      "topic": "Booking a Hotel Room",
+      "text": "1) Describing a hotel: stay in a hotel, facilities (امکانات), minibar, internet access, satellite TV, air conditioning vs central heating, room service, staff (U), helpful, tourist, guest, delicious, recommend.\n2) Booking: double/single/twin room, en suite (دارای حمام اختصاصی), €60 a night, included in the price, parking, 'I'm afraid not', 'never mind', credit card details.\n3) Spotlight: 'Oh, what a shame' / 'Oh, that's a shame' (حیف شد).",
+      "notes": [
+        "تفاوت double room و twin room: اتاق دو نفره با یک تخت بزرگ (double) در برابر دو تخت جداگانه (twin).",
+        "staff همیشه جمع معنا می‌دهد اما s نمی‌گیرد (The staff were helpful)."
+      ],
+      "fa_translation": "رزرو هتل: امکانات (facilities)، تهویه مطبوع و شوفاژ، سرویس اتاق، کارکنان (staff)، مهمان (guest)، اتاق دونفره/دوتخته (double/twin)، حمام داخل اتاق (en suite)، صبحانه رایگان (included) و عبارت «حیف شد» (What a shame)."
+    },
+    {
+      "id": "ows_b_065",
+      "unit": "Unit 56",
+      "topic": "Communicating in an Airport",
+      "text": "1) Check-in: passenger, luggage (U), suitcase, trolley, check-in desk, ticket, scales (ترازو), hand luggage, window seat vs aisle seat (کنار راهرو), boarding card (کارت پرواز).\n2) Departures: departed, flight closed, last call, gate, boarding (در حال سوار شدن), delayed (تاخیر خورده).\n3) Take-off & landing: get on -> fasten seat belt -> take off -> land -> get off -> passport control -> baggage reclaim -> customs (گمرک) -> leave the terminal.",
+      "notes": [
+        "luggage غیرقابل‌شمارش است (هرگز luggages نمی‌گوییم).",
+        "تلفظ aisle (راهرو) بدون s و به صورت /aɪl/ است."
+      ],
+      "fa_translation": "فرودگاه: بار (luggage)، گیت تحویل بار (check-in desk)، ترازو (scales)، بار دستی، صندلی کنار پنجره/راهرو (window/aisle seat)، کارت پرواز (boarding card)، تاخیر (delayed)، بلند شدن/نشستن هواپیما (take off/land)، تحویل بار و گمرک (customs)."
+    },
+    {
+      "id": "ows_b_066",
+      "unit": "Unit 57",
+      "topic": "A Beach Holiday",
+      "text": "From the story:\n• resort (تفریحگاه ساحلی) | fly (PT flew) | get/take a bus | rent an apartment (also flat) | beach | lie (PT lay - دراز کشیدن) | sunbathe (آفتاب گرفتن) | swimming costume (مایو زنانه) | shorts | sea | relax | an hour or so (حدود یک ساعت) | go for a walk | perfect.",
+      "notes": [
+        "an hour or so یعنی «حدود یک ساعت».",
+        "گذشته fly می‌شود flew و گذشته lie (دراز کشیدن) می‌شود lay."
+      ],
+      "fa_translation": "تعطیلات ساحلی: تفرجگاه (resort)، پرواز کردن (fly/flew)، اجاره آپارتمان (rent)، دراز کشیدن (lie/lay)، آفتاب گرفتن (sunbathe)، مایو، استراحت کردن (relax)، حدود یک ساعت (an hour or so) و عالی (perfect)."
+    },
+    {
+      "id": "ows_b_067",
+      "unit": "Unit 58",
+      "topic": "A Sightseeing Holiday",
+      "text": "1) Words: map, guide (راهنما) / guidebook, typical, go sightseeing (گشت‌وگذار شهری و دیدن جاذبه‌ها), art gallery, visit museums, look round (چرخ زدن و دیدن), go on a (guided) tour, get lost (گم شدن), take photos.\n2) Spotlight 'should + verb': 'You should visit Machu Picchu. It's fantastic.' (= it is a good idea).",
+      "notes": [
+        "برای عکس گرفتن همیشه می‌گوییم take photos (نه make photos).",
+        "تفاوت visit و go: می‌گوییم visit a museum (بدون حرف اضافه to)."
+      ],
+      "fa_translation": "سفر سیاحتی: راهنما و کتاب راهنما (guide/guidebook)، گردش و دیدن دیدنی‌ها (go sightseeing)، گالری هنری، چرخ زدن در شهر (look round)، تور با راهنما، گم شدن (get lost) و عکس گرفتن (take photos)."
+    },
+    {
+      "id": "ows_b_068",
+      "unit": "Unit 59",
+      "topic": "Using the Bank & Post Office",
+      "text": "1) Bank: cash machine (also ATM), change money, bureau de change (صرافی), currency, exchange rate (نرخ ارز), sign, commission (کارمزد), charge (دریافت هزینه).\n2) Post office: send a letter/parcel (بسته پستی)/postcard, envelope (پاکت), postcode, stamp (تمبر), letter box / postbox, postman/postwoman, deliver, scales.",
+      "notes": [
+        "برای تبدیل ارز از change dollars into euros استفاده می‌کنیم.",
+        "charge یعنی مبلغی را به عنوان هزینه یا کارمزد از کسی طلب کردن."
+      ],
+      "fa_translation": "بانک و پست: دستگاه خودپرداز (cash machine/ATM)، صرافی (bureau de change)، نرخ ارز (exchange rate)، کارمزد (commission)، پاکت نامه (envelope)، تمبر (stamp)، صندوق پست (postbox) و بسته پستی (parcel)."
+    },
+    {
+      "id": "ows_b_069",
+      "unit": "Unit 60",
+      "topic": "Meeting & Greeting People",
+      "text": "1) Introductions: 'Sam, this is Mary.' | 'Hi, Nice/Good to meet you.' | 'How do you do?' (very formal) | 'I hope to see you again.' | shake hands.\n2) Meeting a friend: 'How are you? / How are things?' ~ 'Fine, thanks / Very well / Not bad.' (NOT very fine) | 'I've got to go' (= have to / must).\n3) Spotlight 'See you...': See you then (at agreed time) / later (same day) / soon (another day) / again (not sure when).\n4) Good morning/afternoon/evening/night.",
+      "notes": [
+        "در جواب How are you? هرگز نمی‌گوییم very fine (می‌گوییم fine, very well یا not bad).",
+        "Goodnight فقط برای خداحافظی آخر شب یا هنگام خوابیدن است، نه برای سلام کردن در شب (برای سلام شبانه از Good evening استفاده می‌کنیم)."
+      ],
+      "fa_translation": "آشنایی و احوالپرسی: معرفی (this is...)، خوشبختم (Nice/Good to meet you)، دست دادن (shake hands)، چطوری؟ (How are things?)، باید برم (I've got to go)، و خداحافظی‌های مختلف با See you (بعداً، سر قرار، به‌زودی)."
+    },
+    {
+      "id": "ows_b_070",
+      "unit": "Unit 61",
+      "topic": "Special Greetings",
+      "text": "Expressions & responses:\n• Goodbye -> Have a nice day / a good weekend! ~ Thanks, you too / and you.\n• Bedtime -> Goodnight, sleep well.\n• Birthday -> Happy birthday! | Exam/difficult -> Good luck! (NOT good lucky).\n• Passed exam / good work -> Well done! / Congratulations!\n• Wedding / baby -> Congratulations! (NOT well done).\n• Going away -> Have a good holiday / journey!\n• Returned -> Welcome home / back! | Spotlight 'cheers': 1) toast 2) thank you 3) goodbye (informal).",
+      "notes": [
+        "برای ازدواج و تولد نوزاد فقط Congratulations می‌گوییم (نه Well done).",
+        "Good luck بدون y است (نه good lucky)."
+      ],
+      "fa_translation": "تبریک‌ها و آرزوها: آخر هفته خوبی داشته باشی، خواب‌های خوب ببینی، تولدت مبارک، موفق باشی (Good luck)، آفرین (Well done)، تبریک (Congratulations)، خوش آمدی (Welcome back) و کاربردهای غیررسمی cheers (به‌سلامتی، ممنون، خداحافظ)."
+    },
+    {
+      "id": "ows_b_071",
+      "unit": "Unit 62",
+      "topic": "Asking for Information",
+      "text": "1) About people: 'What's your brother like?' | 'What does he do?' | 'How long have you known him?' | 'Whose idea was it?' | 'What's wrong with...?' (= What's the problem?) | 'How about you?'\n2) Spotlight 'whose vs belong to': 'Whose bag is this?' = 'Who does this bag belong to?' (NOT Whose does this bag belong to?).\n3) About places: 'What do you recommend?' | 'How long is it open?' | 'How far is it?' | 'Is the castle worth seeing?' | 'Where's the nearest bank?'\n4) Spotlight 'which vs what': Use 'which' for a small number of choices ('Which do you prefer?'); otherwise 'what' ('What's the address?').",
+      "notes": [
+        "worth + فعل ingدار یعنی «ارزش دیدن/انجام دادن داشتن» (worth seeing / worth visiting).",
+        "وقتی تعداد گزینه‌ها محدود و مشخص است از which استفاده می‌کنیم، در غیر این صورت از what."
+      ],
+      "fa_translation": "پرسشگری: مشکل چیه (What's wrong with)، نظر تو چیه (How about you)، مال چه کسی است (Whose / belong to)، ارزش دیدن دارد (worth seeing)، نزدیک‌ترین (nearest)، پیشنهادتان چیست (recommend) و تفاوت which و what."
+    },
+    {
+      "id": "ows_b_072",
+      "unit": "Unit 63",
+      "topic": "Requests & Permission",
+      "text": "1) Requests: 'Can you bring...?' / 'Could you finish...?' / 'Could you possibly wait...?' (more polite) | bring (به سمت من بیاور) vs take (با خودت ببر) | change places | lend (قرض دادن) vs borrow (قرض گرفتن).\n2) Responses: Sure / OK / Yeah, no problem / Yes, of course | '(No), I'm afraid I can't.' (NOT I'm afraid but I can't).\n3) Permission: 'Could I borrow...?' / 'Is it all right/OK if I...?' / 'Do you mind if I...?' (~ 'No, go ahead' = It's not a problem).",
+      "notes": [
+        "جواب مثبت به Do you mind if I...? می‌شود No, go ahead یا Not at all (چون می‌پرسد «آیا برایتان زحمت/مشکل است؟» و شما می‌گویید «نه، بفرمایید»).",
+        "تفاوت lend و borrow: قرض دادن (lend) و قرض گرفتن (borrow)."
+      ],
+      "fa_translation": "درخواست و اجازه: ممکن است لطفاً... (Could you possibly)، آوردن/بردن (bring/take)، جابه‌جا شدن، قرض دادن/گرفتن (lend/borrow)، «متاسفانه نمی‌توانم» (I'm afraid I can't)، و اجازه گرفتن با Do you mind if (پاسخ: No, go ahead)."
+    },
+    {
+      "id": "ows_b_073",
+      "unit": "Unit 64",
+      "topic": "Inviting People",
+      "text": "1) Inviting: 'Would you like to ...?' (more polite) / 'Do you want to ...?' (go out for a meal/drink, come round for a coffee, come to a party).\n2) Saying yes: 'Yes, great!' / 'Yes, I'd love to!' / 'That sounds lovely/fun/good.' / 'That would be lovely/nice.'\n3) Saying no: 'I'm afraid I can't.' / 'I'm sorry, but I'm busy.' / 'I'd love to, but I'm going to the cinema.'",
+      "notes": [
+        "Would you like to...? از Do you want to...? مودبانه‌تر است.",
+        "در رد کردن دعوت، آوردن یک دلیل کوتاه بعد از I'd love to, but... خیلی طبیعی و مودبانه است."
+      ],
+      "fa_translation": "دعوت کردن: مایلید/می‌خواهید با هم بیرون برویم یا بیایید خانه ما؟ قبول دعوت: با کمال میل (I'd love to)، به نظر عالی می‌آید (That sounds lovely). رد کردن مودبانه: متاسفانه نمی‌توانم / سرم شلوغ است."
+    },
+    {
+      "id": "ows_b_074",
+      "unit": "Unit 65",
+      "topic": "Making Suggestions",
+      "text": "1) Asking: 'What shall we do / Where shall we go this weekend?'\n2) Suggesting: 'Shall we go to the beach?' | 'Maybe/Perhaps we could go out for a meal.' | 'What about going to an exhibition?' | 'Let's go out for a drink.'\n3) Responding: 'Yes, (that's a) good/great idea!' | 'Yeah, let's do that.' | Spotlight: It isn't very polite to say 'no'; say 'I'm not sure (about that)' or 'Well, I'd prefer to stay at home.'",
+      "notes": [
+        "بعد از What about فعل به صورت ingدار می‌آید (What about going...?).",
+        "برای رد پیشنهاد، گفتنِ مستقیم No بی‌ادبانه است؛ از I'm not sure یا I'd prefer to استفاده می‌کنیم."
+      ],
+      "fa_translation": "پیشنهاد دادن: آخر هفته چه‌کار کنیم (What shall we do)؟ چطوره بریم... (What about + -ing)، شاید بتونیم... (Maybe we could)، بیا بریم (Let's). رد کردن محترمانه: مطمئن نیستم (I'm not sure) یا ترجیح می‌دهم خانه بمانم."
+    },
+    {
+      "id": "ows_b_075",
+      "unit": "Unit 66",
+      "topic": "Offering, Accepting & Refusing",
+      "text": "1) Offering food/drink: 'Would you like a biscuit?' / 'Do you want something to eat?' (~ Yes, please / No, thanks).\n2) Offering help: 'Can I give you a hand?' / 'Do you need some help?' (~ Yes, please / Thanks a lot | No, I'm fine, thanks / No, don't worry).\n3) Offering to do something: 'Would you like me to make dinner?' / 'Shall I carry your bag?' / 'Do you want me to answer that?' / 'Let me pay / Let me give you a lift to the station.' (~ That's very kind of you).",
+      "notes": [
+        "give someone a hand = به کسی کمک کردن.",
+        "give someone a lift = کسی را با ماشین به جایی رساندن."
+      ],
+      "fa_translation": "تعارف و پیشنهاد کمک: میل دارید؟ کمکی از دستم برمی‌آید (Can I give you a hand)؟ رد محترمانه: نه ممنون، خوبم (No, I'm fine, thanks / don't worry). پیشنهاد انجام کار: بگذار من حساب کنم (Let me pay)، با ماشین برسانمت (give you a lift)."
+    },
+    {
+      "id": "ows_b_076",
+      "unit": "Unit 67",
+      "topic": "Saying Sorry & Responding",
+      "text": "1) Apologizing: apologize to someone | rude (OPP polite) | 'Sorry I'm late' (NOT sorry for be late) | 'I'm sorry, I've broken a cup / lost your pen / forgot to post your letter.'\n2) Responses: 'That's all right' / 'That's OK, don't worry' / 'It doesn't matter' / 'Never mind' (all mean 'it's not important').\n3) Spotlight: Use '(I'm) sorry' to ask someone to repeat: 'Sorry, could you repeat that, please?' / 'I'm sorry, what was your name again?'",
+      "notes": [
+        "برای عذرخواهی بابت دیر رسیدن می‌گوییم Sorry I'm late.",
+        "پاسخ‌های استاندارد به عذرخواهی: It doesn't matter، Never mind، Don't worry، That's all right."
+      ],
+      "fa_translation": "عذرخواهی و پاسخ: ببخشید که دیر کردم (Sorry I'm late)، گستاخ (rude). پاسخ‌ها: اشکالی ندارد / مهم نیست (It doesn't matter / Never mind / That's all right). همچنین برای تکرار حرف طرف مقابل: Sorry, could you repeat that?"
+    },
+    {
+      "id": "ows_b_077",
+      "unit": "Unit 68",
+      "topic": "Expressing Your Opinion",
+      "text": "1) Asking & Giving: 'What do you think of London?' | 'I think (PT thought) the school is excellent.' | 'I don't think it's very good.' (NOT I think it's not very good) | 'Personally, I don't like big cities.'\n2) Agreeing/Disagreeing: 'I agree with you' (NOT I'm agree) | 'I disagree' | 'I'm not sure. I think I prefer the other one.'\n3) 'a waste of money / a waste of time'.",
+      "notes": [
+        "هرگز نمی‌گوییم I am agree! فعل agree خودش فعل اصلی است: I agree with you.",
+        "در انگلیسی به جای «I think it is not good» منفی را روی think می‌آوریم: «I don't think it's very good»."
+      ],
+      "fa_translation": "بیان نظر: نظرت درباره... چیه (What do you think of)؟ به نظر من... (Personally)، موافقم (I agree - بدون am)، مخالفم (I disagree)، مطمئن نیستم (I'm not sure) و اتلاف پول/وقت (a waste of money/time)."
+    },
+    {
+      "id": "ows_b_078",
+      "unit": "Unit 69",
+      "topic": "Phone Vocabulary & Conversations",
+      "text": "1) Phone basics: area code, call/ring (PT rang) someone, text someone, take a message vs leave a message, the line is engaged/busy, out/isn't in, wrong number, battery's flat.\n2) Spotlight numbers: say 'double' for two same digits (33 = double three), and 'oh' or 'zero' for 0.\n3) Conversations: 'Is that Brenda?' (NOT Are you Brenda?) ~ 'Yes, speaking.' | 'This is Laura / It's Laura' (NOT I am Laura) | 'just a moment' | 'Who's calling?' | 'ring/call/phone someone back'.",
+      "notes": [
+        "پشت تلفن برای معرفی خودمان می‌گوییم This is Ali یا It's Ali (نه I am Ali).",
+        "برای پرسیدن هویت طرف مقابل پشت تلفن می‌گوییم Is that...? و در جواب Yes, speaking."
+      ],
+      "fa_translation": "تلفن و مکالمه: خط اشغال است (engaged/busy)، اینجا نیست (isn't in)، شماره اشتباه، شارژ باتری تمام شده (battery's flat). پشت تلفن: سلام، برندا هستید (Is that Brenda)؟ بله خودم هستم (Yes, speaking)، من لورا هستم (This is Laura) و زنگ زدن دوباره (call back)."
+    },
+    {
+      "id": "ows_b_079",
+      "unit": "Unit 70",
+      "topic": "Common Adjectives & Opposites",
+      "text": "1) Opposites: asleep/awake | dead/alive | strong/weak | rich/poor | common/unusual | useful/useless | wide/narrow | noisy/quiet.\n2) Spotlight: You can't use 'alive, awake, asleep' before a noun ('The man is alive', NOT 'an alive man').\n3) Classroom habits: helpful | annoying (SYN irritating) | clear (OPP confusing) | impossible (OPP possible) | necessary (OPP unnecessary) | strange (SYN odd) | mad (SYN crazy) | 'it's the only way'.",
+      "notes": [
+        "سه صفت alive، awake و asleep هرگز قبل از اسم نمی‌آیند و فقط بعد از فعل (مثل is/are) به کار می‌روند.",
+        "annoying = آزاردهنده (هم‌معنی با irritating)."
+      ],
+      "fa_translation": "صفت‌های پرکاربرد و متضادها: بیدار/خواب، زنده/مرده، قوی/ضعیف، عریض/باریک (wide/narrow)، رایج/غیرمعمول (common/unusual)، مفید/بی‌مصرف، گیج‌کننده/واضح (confusing/clear)، ضروری (necessary) و عجیب (strange/odd)."
+    },
+    {
+      "id": "ows_b_080",
+      "unit": "Unit 71",
+      "topic": "Adverbs of Emphasis & Degree",
+      "text": "1) Emphasis: 'only' (no more than) | 'even' (surprising: 'even in summer') | 'still' (continues to be true) | 'especially / particularly' (more than others).\n2) Degree (0% to 100%): a bit / a little < quite < very < extremely < absolutely (really covers very/extremely/absolutely).\n3) Spotlight Gradable vs Ungradable: Use 'extremely/very' with gradable adjectives (good, tired, busy) and 'absolutely' with ungradable adjectives (awful, perfect, terrible, delicious, fantastic, enormous). Use 'a bit/a little' with negative or comparative adjectives (NOT 'a bit good').",
+      "notes": [
+        "نکته طلایی: با صفت‌های قوی مثل terrible، delicious، fantastic و enormous از very استفاده نمی‌کنیم؛ از absolutely یا really استفاده می‌کنیم.",
+        "a bit را قبل از صفت مثبت نمی‌آوریم (نمی‌گوییم a bit good)."
+      ],
+      "fa_translation": "قیدهای تاکید و درجه: فقط (only)، حتی (even)، هنوز (still)، به‌ویژه (especially/particularly). قیدهای شدت: کمی (a bit برای صفت منفی)، نسبتاً (quite)، خیلی (very/extremely برای صفت‌های درجه‌پذیر)، کاملاً (absolutely برای صفت‌های مطلق مثل fantastic/terrible)."
+    },
+    {
+      "id": "ows_b_081",
+      "unit": "Unit 72",
+      "topic": "Irregular Verbs & 'Ever'",
+      "text": "1) Key patterns: i -> a (sing/sang, ring/rang, swim/swam, sit/sat) | same form (put, cost, read, cut) | i -> o (write/wrote, drive/drove) | -ought/-aught (bring/brought, buy/bought, think/thought, teach/taught) | -n/-en past participles (fly/flown, forget/forgotten, give/given, see/seen, take/taken, write/written, know/known, speak/spoken, drive/driven, grow/grown).\n2) Spotlight 'ever': Used in present perfect questions (= at any time before now): 'Have you ever met...?' ~ No, I haven't. / Yes, she has.",
+      "notes": [
+        "در جواب کوتاه به Have you ever...? کلمه ever را تکرار نمی‌کنیم (می‌گوییم Yes, she has).",
+        "گذشته و شکل سوم read مثل هم نوشته می‌شوند اما /red/ تلفظ می‌شوند."
+      ],
+      "fa_translation": "الگوهای افعال بی‌قاعده (گذشته ساده و اسم مفعول) و کاربرد ever در سوالات حال کامل به معنی «تا به حال»: Have you ever been to Cairo? ~ Yes, I have."
+    },
+    {
+      "id": "ows_b_082",
+      "unit": "Unit 73",
+      "topic": "Phrasal Verbs & Word Order",
+      "text": "1) Meanings: give something up (ترک کردن/دست کشیدن) | get on with someone | take off (پرواز کردن یا درآوردن لباس) | grow up | find out (فهمیدن/کشف کردن) | go out | go up (افزایش یافتن) | carry on with (ادامه دادن) | go back | wake up.\n2) Grammar: With an object noun, it can go before or after the particle ('Take off your jacket' OR 'Take your jacket off').\n3) With a pronoun (it, them), it MUST go before the particle: 'Take it off' (NOT 'Take off it'), 'Look it up'.",
+      "notes": [
+        "قانون طلایی افعال عبارتی جداشدنی: وقتی مفعول ضمیر است (it, them)، حتماً باید وسط فعل و حرف اضافه بیاید (Turn it on، نه Turn on it)."
+      ],
+      "fa_translation": "افعال عبارتی: ترک کردن (give up)، بلند شدن هواپیما/درآوردن لباس (take off)، بزرگ شدن (grow up)، پی بردن (find out)، بالا رفتن قیمت (go up)، ادامه دادن (carry on). اگر مفعول ضمیر باشد همیشه بین دو جزء قرار می‌گیرد: Take it off."
+    },
+    {
+      "id": "ows_b_083",
+      "unit": "Unit 74",
+      "topic": "Prepositions of Time (at, on, in)",
+      "text": "1) at: a time (at six o'clock, at midday/midnight), a mealtime (at breakfast/lunch/dinner), plus 'at the weekend', 'at night' (NOT in the night), 'at Christmas / at New Year'.\n2) on: a day (on Tuesday, on Friday evening, on Tuesdays), a date (on September 1st, on the sixth of May), on my birthday.\n3) in: part of a day (in the morning/afternoon/evening), a season (in spring), a month/year/century (in July, in 1990, in the 21st century).",
+      "notes": [
+        "برای شب همیشه می‌گوییم at night (نه in the night)، اما برای صبح و عصر می‌گوییم in the morning/evening.",
+        "حتی اگر روز و بخش روز با هم بیایند (مثل Friday evening)، چون نام روز وجود دارد از on استفاده می‌کنیم."
+      ],
+      "fa_translation": "حروف اضافه زمان: at برای ساعت، وعده غذایی، شب (at night) و آخر هفته؛ on برای روزهای هفته و تاریخ دقیق؛ in برای بخش‌های روز (صبح/عصر)، فصل، ماه، سال و قرن."
+    },
+    {
+      "id": "ows_b_084",
+      "unit": "Unit 75",
+      "topic": "Time Words & Phrases (for vs since)",
+      "text": "1) Past/Present/Future: last week (NOT the last week), this week, next week (NOT the next week), last night / yesterday evening (NOT yesterday night), three days ago, in ten days' time, appointment.\n2) Confused words: before/after | at the moment (= now, NOT in this moment) | in a minute (soon) | soon vs later | until (worked until 10.00, NOT by 10.00).\n3) Spotlight 'for vs since': Use 'for' with a period of time (for two weeks, for five years) and 'since' with a point in time (since 2003, since last year, since Sarah was born).",
+      "notes": [
+        "برای دیشب می‌گوییم last night یا yesterday evening (هرگز yesterday night نمی‌گوییم).",
+        "for برای مدت زمان (۵ سال) و since برای نقطه شروع زمان (از سال ۲۰۲۰) در حال کامل می‌آید."
+      ],
+      "fa_translation": "قیدهای زمان: هفته پیش (last week بدون the)، دیشب (last night)، ۱۰ روز دیگر (in ten days' time)، الان (at the moment)، تا ساعت ۱۰ (until 10.00). تفاوت for (مدت زمان) و since (نقطه شروع زمان)."
+    },
+    {
+      "id": "ows_b_085",
+      "unit": "Unit 76",
+      "topic": "Prepositions of Place & Movement",
+      "text": "1) Place: at (position/meeting point: at the bus stop, at work/home/a party) | in (3D space or big area: in a box, in London, in the countryside) | on (a line or surface: on the coast, on the river, on the wall, on the first floor). Note: 'He's in the river (swimming)' vs 'She's on the river (in a boat)'.\n2) Other positions: in front of, behind, between, near, above, below, next to, opposite.\n3) Movement: go out of, go into, go across, go down, go up, go along, go past, go through (از میانِ), go under, go over.",
+      "notes": [
+        "تفاوت in و on روی نقشه/آب: شنا کردن در رودخانه می‌شود in the river، اما قایق‌سواری روی رودخانه می‌شود on the river.",
+        "through یعنی عبور کردن از داخلِ یک فضا (مثل دروازه، تونل یا جنگل)."
+      ],
+      "fa_translation": "حروف اضافه مکان و حرکت: at (نقطه ملاقات/محل کار)، in (فضای سه‌بعدی/شهر/کشور)، on (روی خط یا سطح/ساحل/طبقه). موقعیت‌ها: روبرو (opposite)، بین (between)، بالا/پایین (above/below). حرکت: از کنار (past)، از میان (through)، عرض خیابان (across)."
+    },
+    {
+      "id": "ows_b_086",
+      "unit": "Unit 77",
+      "topic": "Link Words (1): Addition, Reason & Result",
+      "text": "1) Addition: 'and' | 'also' (goes after auxiliary verbs like be/can, before main verb: 'it's also expensive', 'it also costs a lot') | 'too' & 'as well' (go at the end of the sentence, more informal).\n2) Reason & Result: 'because + clause' vs 'because of + noun' ('because it was raining' vs 'because of the rain') | '(in order) to + verb' ('to get out of the rain') | 'so + clause' (comes before the result, usually with a comma before 'so').",
+      "notes": [
+        "جایگاه also وسط جمله است (بعد از am/is/are/can و قبل از فعل اصلی)، ولی too و as well آخر جمله می‌آیند.",
+        "تفاوت because و because of: بعد از because جمله کامل می‌آید، ولی بعد از because of فقط اسم می‌آید."
+      ],
+      "fa_translation": "ربط‌دهنده‌های اول: جایگاه also (وسط جمله) در برابر too و as well (انتهای جمله). دلیل و نتیجه: because + جمله، because of + اسم، (in order) to + فعل ساده، و so قبل از نتیجه (با کاما قبلش)."
+    },
+    {
+      "id": "ows_b_087",
+      "unit": "Unit 78",
+      "topic": "Link Words (2): Time, Condition & Sequence",
+      "text": "1) When vs If (future): 'when' = I'm sure | 'if' = I'm not sure. Present simple goes after when/if, NOT 'will' ('I'll post it when I go out', NOT 'when I will go out').\n2) When vs While: Both mean 'in that period of time' ('when/while I was on holiday'); only 'when' means 'at that moment' ('when he got home', NOT 'while he got home').\n3) Sequence: firstly / first / first of all -> (and) then / after that / afterwards -> finally (last item in a list).",
+      "notes": [
+        "در جملات شرطی و زمانیِ آینده، بعد از if و when هرگز will نمی‌آوریم؛ از زمان حال ساده استفاده می‌کنیم.",
+        "while برای یک بازه زمانیِ در حال جریان است، نه یک لحظه کوتاه مثل رسیدن به خانه."
+      ],
+      "fa_translation": "ربط‌دهنده‌های دوم: تفاوت when (مطمئن) و if (نامطمئن) و نیامدن will بعد از آن‌ها؛ تفاوت while (طول یک بازه) و when (یک لحظه یا بازه)؛ ترتیب کارها: اول (firstly/first of all)، سپس (then/after that) و در پایان (finally)."
+    },
+    {
+      "id": "ows_b_088",
+      "unit": "Unit 79",
+      "topic": "Using 'Have', 'Have Got' & 'Have + Noun'",
+      "text": "1) Have vs Have got (possession, illness, relationships, appearance): 'Have' uses do/does/did in questions & negatives ('Do they have a car?'). 'Have got' is more common in spoken questions/negatives ('Have they got a car? / He hasn't got a bike'), but we don't use 'have got' in short answers.\n2) Have + noun (activities/meals): have breakfast/lunch/dinner (NOT the lunch) | have a wash/shower/bath | have a drink/something to eat | have a swim/walk/run | have a great time/day | have a nice weekend/holiday/journey | have a break/rest (You CANNOT use 'have got' in these expressions).",
+      "notes": [
+        "در عبارات فعالیتی مثل have breakfast یا have a break هرگز نمی‌توانیم از have got استفاده کنیم (نمی‌گوییم Let's have got a break).",
+        "قبل از وعده‌های غذایی (breakfast/lunch/dinner) حرف تعریف the نمی‌گذاریم."
+      ],
+      "fa_translation": "کاربردهای have: برای مالکیت، بیماری و ظاهر می‌توانیم از have یا have got استفاده کنیم؛ اما برای کارها و وعده‌ها (مثل صبحانه خوردن، دوش گرفتن، استراحت کردن، خوش گذراندن) فقط از have استفاده می‌کنیم و هرگز have got نمی‌آوریم."
+    },
+    {
+      "id": "ows_b_089",
+      "unit": "Unit 80",
+      "topic": "Six Core Meanings of 'Get'",
+      "text": "Spotlight: 'Get' is very common in spoken English (less used in formal writing). Six main meanings:\n1) arrive at: 'We get to London at 6.00.'\n2) receive: 'I didn't get a visa / Did you get my message?'\n3) become: 'It's getting hot / He gets angry.'\n4) buy: 'I got this watch last week.'\n5) obtain: 'I have to get a job.'\n6) travel by: 'Let's get the bus.'",
+      "notes": [
+        "فعل get یکی از پرکاربردترین افعال انگلیسی محاوره‌ای است و جای ۶ فعل رسمی‌تر (arrive, receive, become, buy, obtain, take) را می‌گیرد.",
+        "در نوشتار رسمی و آکادمیک بهتر است به جای get از معادل دقیقش استفاده کنیم."
+      ],
+      "fa_translation": "شش معنای کلیدی فعل get در مکالمه: ۱) رسیدن به (arrive at) ۲) دریافت کردن (receive) ۳) شدن (become) ۴) خریدن (buy) ۵) به دست آوردن (obtain) ۶) سوار شدن/سفر با وسیله نقلیه (travel by)."
+    }
+  ]
+}

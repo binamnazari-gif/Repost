@@ -1,7 +1,6 @@
 import json
 import os
 import urllib.request
-import urllib.parse
 from datetime import datetime, timedelta, timezone
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
@@ -66,6 +65,13 @@ def process_callbacks(state: dict, now: datetime) -> None:
         book_id = parts[1] if len(parts) > 1 else ""
         item_id = parts[2] if len(parts) > 2 else ""
 
+        if action == "done":
+            try:
+                tg_request("answerCallbackQuery", {"callback_query_id": cb_id})
+            except Exception:
+                pass
+            continue
+
         today_str = now.strftime("%Y-%m-%d")
         if state.get("last_active_date") != today_str:
             yesterday_str = (now - timedelta(days=1)).strftime("%Y-%m-%d")
@@ -76,15 +82,16 @@ def process_callbacks(state: dict, now: datetime) -> None:
             state["last_active_date"] = today_str
 
         reply_text = "ثبت شد ✅"
+        status_label = "✅ ثبت شد"
 
         if action == "know":
             state["total_mastered"] = state.get("total_mastered", 0) + 1
-            # Remove from SRS queue if present
             state["srs_queue"] = [
                 q for q in state.get("srs_queue", [])
                 if not (q["book_id"] == book_id and q["item_id"] == item_id)
             ]
             reply_text = "عالی! ثبت شد به عنوان بلدم ✅"
+            status_label = "✅ تسلط ثبت شد"
 
         elif action == "review":
             existing = next(
@@ -105,39 +112,45 @@ def process_callbacks(state: dict, now: datetime) -> None:
                 })
             state["total_reviewed"] = state.get("total_reviewed", 0) + 1
             reply_text = "به صف مرور اضافه شد 🔁"
+            status_label = "🔁 در صف مرور ثبت شد"
 
         elif action == "skip5":
             state["current_item_index"] = state.get("current_item_index", 0) + 5
             reply_text = "۵ مورد بعدی رد شد ⚡"
+            status_label = "⚡ ۵ مورد بعدی رد شد"
 
+        # Acknowledge callback (may expire if clicked long ago, so ignore errors)
         try:
             tg_request("answerCallbackQuery", {
                 "callback_query_id": cb_id,
                 "text": reply_text,
                 "show_alert": False,
             })
-        except Exception as e:
-            print(f"Warning: answerCallbackQuery failed: {e}")
+        except Exception:
+            pass
 
-
-def find_item(book_filename: str, item_id: str) -> tuple[dict | None, dict | None]:
-    path = os.path.join(BOOKS_DIR, book_filename)
-    if not os.path.exists(path):
-        return None, None
-    book = load_json(path)
-    for item in book.get("items", []):
-        if item["id"] == item_id:
-            return book, item
-    return book, None
+        # Update buttons on the original message so it stays in chat and shows confirmation
+        msg = cb.get("message")
+        if msg:
+            try:
+                tg_request("editMessageReplyMarkup", {
+                    "chat_id": msg["chat"]["id"],
+                    "message_id": msg["message_id"],
+                    "reply_markup": {
+                        "inline_keyboard": [
+                            [{"text": status_label, "callback_data": "done"}]
+                        ]
+                    },
+                })
+            except Exception as e:
+                print(f"Warning: editMessageReplyMarkup failed: {e}")
 
 
 def get_next_payload(state: dict, now: datetime) -> tuple[dict | None, dict | None, bool]:
-    # 1. Check SRS queue first for due items
     srs_queue = state.get("srs_queue", [])
-    for idx, q in enumerate(srs_queue):
+    for q in srs_queue:
         due_dt = datetime.fromisoformat(q["next_review_at"])
         if due_dt <= now:
-            # Find matching book file
             for bfile in state.get("book_queue", []):
                 path = os.path.join(BOOKS_DIR, bfile)
                 if not os.path.exists(path):
@@ -146,11 +159,9 @@ def get_next_payload(state: dict, now: datetime) -> tuple[dict | None, dict | No
                 if book["book_id"] == q["book_id"]:
                     for item in book.get("items", []):
                         if item["id"] == q["item_id"]:
-                            # Push due date forward automatically in case user doesn't click
                             q["next_review_at"] = (now + timedelta(days=q["interval_days"])).isoformat()
                             return book, item, True
 
-    # 2. Otherwise get next item from current book in queue
     book_queue = state.get("book_queue", [])
     b_idx = state.get("current_book_index", 0)
     i_idx = state.get("current_item_index", 0)
@@ -213,10 +224,8 @@ def main() -> None:
     now = datetime.now(timezone.utc)
     state = load_json(STATE_FILE)
 
-    # 1. Process previous user button clicks
     process_callbacks(state, now)
 
-    # 2. Pick next item (SRS due or next sequential chunk)
     book, item, is_review = get_next_payload(state, now)
     if not book or not item:
         tg_request("sendMessage", {
@@ -226,7 +235,6 @@ def main() -> None:
         save_json(STATE_FILE, state)
         return
 
-    # 3. Send interactive message
     text = format_message(book, item, is_review, state)
     b_id = book["book_id"]
     i_id = item["id"]

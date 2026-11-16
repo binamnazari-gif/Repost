@@ -2,8 +2,8 @@ name: Daily English Bombardment
 
 on:
   schedule:
-    # 8 times a day (every 2 hours from 06:00 to 20:00 UTC)
-    - cron: "0 6,8,10,12,14,16,18,20 * * *"
+    # 24 times a day (every hour at minute 23 to avoid :00 queue drops)
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:

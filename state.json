@@ -1,7 +1,7 @@
 {
   "last_update_id": 0,
   "current_book_index": 0,
-  "current_item_index": 6,
+  "current_item_index": 7,
   "book_queue": [
     "01_oxford_word_skills_basic.json"
   ],
@@ -9,6 +9,6 @@
   "srs_queue": [],
   "streak_days": 2,
   "last_active_date": "2026-11-17",
-  "total_mastered": 4,
+  "total_mastered": 5,
   "total_reviewed": 0
 }
